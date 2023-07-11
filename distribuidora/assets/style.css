@@ -1,0 +1,354 @@
+body {
+	background: url(../imagenes/fdo-sitio.png) no-repeat #fff;
+	font-family: Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 15px;
+	color: #231f20;
+	padding-top: 10px
+}
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1em;
+	margin: 0;
+}
+p {
+	margin-bottom: 1em;
+	line-height: 1.5em;
+}
+
+.spacer {
+	padding: 6em 0;
+}
+
+.caption {
+    height: 160px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+
+/*SLIDER*/
+.banner {
+	position: relative;
+	color: #fff;
+}
+.banner p {
+	font: 300 1.35em/4em Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: 0;
+}
+.banner p, .banner h1 {
+	background: rgba(0,0,0,0.5);
+}
+.banner h1 {
+	padding-top: 15px;
+}
+.banner img.img-responsive {
+	width: 100%;
+}
+.banner img.nautica {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	width: 10%;
+}
+.banner .welcome-message {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	text-align: center;
+}
+.banner .welcome-message .wrap-info {
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+.banner .welcome-message .wrap-info .information {
+	display: table-cell;
+	vertical-align: bottom;
+}
+.banner .arrow-nav {
+	position: absolute;
+	bottom: -3.5em;
+	background-color: #60a0d6;
+	height: 7em;
+	width: 7em;
+	display: inline-block;
+	z-index: 100;
+	left: 50%;
+	margin-left: -52px;
+	color: #fff;
+	border-radius: 50%;
+}
+.banner .arrow-nav i {
+	font-size: 5em;
+	line-height: 105px;
+}
+.banner .arrow-nav:hover {
+	background: #756534;
+}
+/*reserve-info*/
+.reserve-info {
+	background-color: #fff;
+}
+.services {
+	background-color: #dedbd3;
+}
+.services .caption {
+	background-color: #fff;
+	color: #46433b;
+	padding: 1.5em;
+}
+.services .caption a {
+	color: #585650;
+	font-size: 1.25em;
+}
+.services .caption a:hover {
+	color: #fff;
+}
+.carousel-control {
+	width: 10%;
+	background: none !important;
+}
+.carousel-control i.fa {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 50%;
+	margin-top: -10px;
+}
+.carousel img {
+	width: 100%;
+}
+.copyright {
+	background-color: #252423;
+	padding: 0.6em 0;
+	font-size: 0.85em;
+	color: #7F7F7F;
+}
+.copyright a {
+	color: #AEAEAC;
+}
+/*footer*/
+
+.toTop {
+	position: fixed;
+	right: 1em;
+	bottom: 1em;
+	background: rgba(0,0,0,0.8);
+	width: 35px;
+	height: 35px;
+	text-align: center;
+	color: #fff;
+	font-size: 2em;
+}
+.toTop:hover {
+	color: #fff;
+	background: rgba(0,0,0,1);
+}
+/*unform*/
+.radio-inline {
+	padding-top: 4px;
+	padding-left: 0;
+}
+.form-horizontal .radio {
+	padding-top: 3px;
+}
+.radio-inline input[type="radio"] {
+	margin-left: 0;
+}
+div.radio {
+	margin-right: 10px;
+}
+div.radio span {
+	background: url(../images/radio.png) 0 20px !important;
+}
+div.radio span, div.radio input {
+	width: 20px;
+	height: 20px;
+}
+div.radio span.checked {
+	background-position: 0 0 !important;
+}
+div.selector {
+	border: none;
+	border: 1px solid #999;
+	height: 33px !important;
+	padding: 3px 10px !important;
+	border-radius: 0;
+	font-size: 14px;
+	background: #fff !important;
+	width: 100% !important;
+}
+div.selector:hover {
+	border-color: #bbb;
+}
+div.selector span {
+	height: 36px;
+	padding: 0;
+	background: url(../images/drop.png) right 9px no-repeat !important;
+	color: #8d8d8d;
+	width: 100% !important;
+	margin-right: 20px;
+}
+div.selector:hover span {
+	background-position: right 9px !important;
+	color: #282828;
+}
+div.selector select {
+	height: 36px !important;
+	top: -2px;
+	cursor: pointer;
+	background-color: #fff;
+}
+div.selector option {
+	padding: 10px;
+}
+.checkbox label {
+	padding-left: 0;
+}
+.checkbox input[type=checkbox] {
+	margin-left: -10px;
+}
+/*unform*/
+
+
+.gallery .gallery-image {
+	margin-bottom: 0em;
+	display: inline-block;
+}
+.gallery .gallery-image img {
+	width: 100%;
+}
+.gallery .col-sm-6 {
+	padding: 5px;
+}
+.gallery .col-md-12 {
+	padding: 10px;
+}
+body::-webkit-scrollbar {
+ width: 6px;
+}
+ 
+    
+    /* Let's get this party started */
+    ::-webkit-scrollbar {
+ width: 3px;
+}
+
+    /* Track */
+    ::-webkit-scrollbar-track {
+ background: #ccc;
+/*        -webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.3); 
+        -webkit-border-radius: 10px;
+        border-radius: 10px;*/
+}
+
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+/*        -webkit-border-radius: 10px;
+        border-radius: 10px;*/
+        background:#069;
+}
+    ::-webkit-scrollbar-thumb:window-inactive {
+ background: #ddd;
+}
+
+
+
+/*responsive starts here*/
+
+@media (max-width: 767px) {
+
+.navbar-toggle {
+	margin-top: 23px;
+}
+.navbar-default .navbar-toggle {
+	background-color: #60a0d6;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #5F5021;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+.navbar-nav > li > a {
+	line-height: 1em;
+}
+h1 {
+	font-size: 2em;
+}
+.banner p {
+	font: 300 1em/1em 'Old Standard TT', serif;
+}
+.banner .arrow-nav {
+	margin-left: -22px;
+	height: 3em;
+	width: 3em;
+	bottom: -1.5em;
+}
+.banner .arrow-nav i {
+	font-size: 2em;
+	line-height: 45px;
+}
+.spacer {
+	padding: 4em 0;
+}
+.reserve-info h3 {
+	margin-top: 2em;
+}
+.services div.col-sm-4 {
+	margin-bottom: 2em;
+}
+footer.spacer {
+	padding: 1em 0 3em 0;
+}
+footer h4 {
+	margin-top: 2em;
+}
+.room-features .size-price {
+	margin-bottom: 2em;
+}
+}
+
+.navbar-inverse {
+	background-color: #222;
+	border:none
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff
+}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+	color: #ddd;
+	background-color: transparent
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	border-color: #101010
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+	color: #fff;
+	background-color: #258207
+}

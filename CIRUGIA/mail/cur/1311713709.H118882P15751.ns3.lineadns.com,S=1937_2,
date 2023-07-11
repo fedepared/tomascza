@@ -1,0 +1,49 @@
+Return-path: <>
+Envelope-to: seraviat@ns3.lineadns.com
+Delivery-date: Tue, 26 Jul 2011 17:55:09 -0300
+Received: from mailnull by ns3.lineadns.com with local (Exim 4.69)
+	id 1Qloei-00045w-Eo
+	for seraviat@ns3.lineadns.com; Tue, 26 Jul 2011 17:55:08 -0300
+X-Failed-Recipients: info@romarconstrucciones.com.ar
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns3.lineadns.com>
+To: seraviat@ns3.lineadns.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Qloei-00045w-Eo@ns3.lineadns.com>
+Date: Tue, 26 Jul 2011 17:55:08 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@romarconstrucciones.com.ar
+    SMTP error from remote mail server after RCPT TO:<info@romarconstrucciones.com.ar>:
+    host romarconstrucciones.com.ar [93.174.4.8]:
+    553 sorry, that domain isn't in my list of allowed rcpthosts (#5.7.1)
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <seraviat@ns3.lineadns.com>
+Received: from seraviat by ns3.lineadns.com with local (Exim 4.69)
+	(envelope-from <seraviat@ns3.lineadns.com>)
+	id 1Qloeb-00044x-TW
+	for info@romarconstrucciones.com.ar; Tue, 26 Jul 2011 17:55:01 -0300
+To: info@romarconstrucciones.com.ar
+Subject: Consulta Pasajes Aéreos
+From: damian-seoane@hotmail.com 
+X-Mailer: PHP/5.2.17 
+Mime-Version: 1.0 
+Content-Type: text/plain
+Message-Id: <E1Qloeb-00044x-TW@ns3.lineadns.com>
+Sender:  <seraviat@ns3.lineadns.com>
+Date: Tue, 26 Jul 2011 17:55:01 -0300
+
+Este mensaje fue enviado por Damian 
+Su e-mail es: damian-seoane@hotmail.com 
+Ciudad: Merlo 
+Provincia: Buenos aires 
+Numero de Tel?fono:  
+Mensaje: Queria saber el precio del pasaje aereo ida y vuelta hasta la ciudad de Sao Luis, Maranhao, Brasil.
+Desde ya muchas gracias. 
+Enviado el 26/07/2011

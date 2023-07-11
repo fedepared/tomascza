@@ -1,0 +1,48 @@
+Return-path: <>
+Envelope-to: seraviat@ns3.lineadns.com
+Delivery-date: Wed, 16 Jun 2010 17:25:10 -0300
+Received: from mailnull by ns3.lineadns.com with local (Exim 4.69)
+	id 1OOzAc-0005Gj-HC
+	for seraviat@ns3.lineadns.com; Wed, 16 Jun 2010 17:25:10 -0300
+X-Failed-Recipients: info@romarconstrucciones.com.ar
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns3.lineadns.com>
+To: seraviat@ns3.lineadns.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1OOzAc-0005Gj-HC@ns3.lineadns.com>
+Date: Wed, 16 Jun 2010 17:25:10 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@romarconstrucciones.com.ar
+    SMTP error from remote mail server after RCPT TO:<info@romarconstrucciones.com.ar>:
+    host mail.romarconstrucciones.com.ar [89.248.106.90]:
+    421 Your address has been graylisted. Try again later.:
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <seraviat@ns3.lineadns.com>
+Received: from seraviat by ns3.lineadns.com with local (Exim 4.69)
+	(envelope-from <seraviat@ns3.lineadns.com>)
+	id 1OOzAY-0005GC-2e
+	for info@romarconstrucciones.com.ar; Wed, 16 Jun 2010 17:25:06 -0300
+To: info@romarconstrucciones.com.ar
+Subject: Consulta de Pasajes Terrestres
+From:  
+X-Mailer: PHP/5.2.13 
+Mime-Version: 1.0 
+Content-Type: text/plain
+Message-Id: <E1OOzAY-0005GC-2e@ns3.lineadns.com>
+Date: Wed, 16 Jun 2010 17:25:06 -0300
+
+Este mensaje fue enviado por  
+Su e-mail es:  
+Ciudad:  
+Provincia:  
+Numero de Teléfono:  
+Mensaje:  
+Enviado el 16/06/2010

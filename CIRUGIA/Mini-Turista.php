@@ -1,0 +1,129 @@
+<?php
+session_start();
+include_once 'class/conexion.php';
+$_SESSION["k_breadcrumb"] ="";
+if(isset($_POST["mde"]))
+{
+	$link=Conectarse();
+    $sqlBedDel= " delete menu_categorias where id =".$_POST["mde"]; 
+    $consultaBed= mysql_query($sqlBedDel,$link);
+}
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Titulo ECOMMERS:.</title>
+<link rel="shortcut icon" href="../imagenes/tu-logo-mitad2.jpg"></link>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!--<link href="css/admin.css" rel="stylesheet" type="text/css" />-->
+</head>
+
+<body>
+<div id="page"> 
+ <!--Start HEADER -->
+ <?php 	 require_once("header.php"); 
+ 			 ?>
+ <!-- End HEADER -->
+ <!--Start CENTRAL -->
+ <div id="central">
+   <h1>Mini Turismo</h1>
+   <a href="abmMiniTurismo.php?root=1"><img src="images/add.png" alt="Agregar" align="absmiddle" /> Agregar Categoria - Subcategoria</a><br><br>
+   <!--Start FORM -->
+   <form ACTION="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" enctype="multipart/form-data">
+	<?php 
+       $limit = 20;		
+		// pagina pedida
+		$pag = 0;
+		if (isset($_GET["pag"]))
+				$pag = (int) ($_GET["pag"]);
+		
+		
+		if ($pag < 1)
+		{
+		   $pag = 1;
+		}		
+		$offset = ($pag-1) * $limit;
+		$finalqry = 	"order by 1 LIMIT  $offset, $limit";	
+		?>
+    <table class="form">
+  	<tr class="rowGris">
+  		<td class="formTitle" width="100px">
+  		Categoria
+  		</td>
+  		<td class="formTitle" width="190px">
+  		Descripcion
+  		</td>
+  		<td></td>
+  		<td></td>
+  		<td></td>
+    <?php
+    $link=Conectarse();
+    $sql= " select * from menu_categorias  where root =1 and CD_MINITURISMO= 1 ".$finalqry;
+    
+    $consulta= mysql_query($sql,$link);
+    $sqlTotal = "SELECT count(*) as total from menu_categorias where root =1 and CD_MINITURISMO= 1 ";
+   
+    
+		  
+	$rs = mysql_query($sql);
+	$rsTotal = mysql_query($sqlTotal);
+		 
+	$rowTotal = mysql_fetch_assoc($rsTotal);
+		// Total de registros sin limit
+	$total = $rowTotal["total"];
+	if (consulta)
+	{
+    while($row= mysql_fetch_assoc($consulta)) 
+    {?>
+    <tr class="rowBlanco">
+    	<td class="formFields"> <?php echo $row["categoria"] ?></td>
+    	<td class="formFields"> <?php echo $row["descripcion"] ?></td>
+    	<td>
+    	<img src="images/edit.png" alt="Seleccionar" align="absmiddle" /><a href="newMini-Turismo.php?md=<?php echo $row["id"] ?>"> Seleccionar</a>
+  </td>    	
+  <td>
+    	<img src="images/edit.png" alt="Modificar" align="absmiddle" /><a href="abmMiniTurismo.php?id=<?php echo $row["id"] ?>&root=1" > Modificar</a>
+  </td>
+  <td>
+    	<img src="images/edit.png" alt="Eliminar" align="absmiddle" /><a href="Mini-Turista.php?mde=<?php echo $row["id"] ?>" > Eliminar</a>
+  </td>
+  </tr>
+    	<?php 
+    }    } 
+     ?>
+  
+  <tr>
+  <td  class="mensaje" colspan="3">
+         <?php
+          	if (isset($mensaje)) {
+                    echo $mensaje;
+          	}
+         ?>
+  </td>
+  </tr>
+ </table>
+		<div id="paginacion" style="text-align:left; margin-top:30px;">     <?php
+         $totalPag = ceil($total/$limit);
+         $links = array();
+         for( $i=1; $i<=$totalPag ; $i++)
+         {
+            $links[] = "<a href=\"?pag=$i\">Pag $i</a>"; 
+         }
+         echo implode(" - ", $links);
+      ?>
+    </div>
+    <br></br>
+	
+   </form>
+   <!--End FORM -->
+ </div> <!--End CENTRAL -->
+ <br clear="all" />
+</div>
+<!--
+<script type="text/javascript" language="javascript" src="js/jquery.js"></script>
+<script type="text/javascript" language="javascript" src="js/menu.js"></script>
+<script type="text/javascript" src="js/funciones.js" language="javascript"></script>
+-->
+</body>
+</html>

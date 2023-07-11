@@ -1,0 +1,112 @@
+Return-path: <operaciones@aguasdelparaiso.com.ar>
+Envelope-to: marioag@seraviatours.tur.ar
+Delivery-date: Mon, 04 Mar 2013 19:24:15 -0300
+Received: from ar12.toservers.com ([200.62.55.112]:36631)
+	by ns3.lineadns.com with esmtp (Exim 4.80)
+	(envelope-from <operaciones@aguasdelparaiso.com.ar>)
+	id 1UCdnq-0004CX-P8
+	for marioag@seraviatours.tur.ar; Mon, 04 Mar 2013 19:24:15 -0300
+Received: from ar12.toservers.com (unknown [192.168.2.234])
+	by ar12.toservers.com (Postfix) with ESMTP id 742E0C3517336
+	for <marioag@seraviatours.tur.ar>; Mon,  4 Mar 2013 19:31:54 -0300 (ART)
+Received: by ar12.toservers.com (Postfix, from userid 10303)
+	id 54967C351732B; Mon,  4 Mar 2013 19:31:54 -0300 (ART)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+ d=aguasdelparaiso.com.ar; i=@aguasdelparaiso.com.ar; q=dns/txt;
+ s=dkim_tw; t=1362436312; h=DomainKey-Signature : Message-ID : From : To
+ : Subject : Date : MIME-Version : Content-Type;
+ bh=fG3zOBgdhLA3fhwxBynN04LcooP7pT+7H4oM75a4PXs=; b=LtTcbAZPOGXTs07D5z45MCBudypEoZEOqFCaRp5lCydMM2vdeecmCBTYA1oLTAguxGeu9MT9De5zqUilqNwpO7i7rw4Xmg2A5WlXtts2g6xcvI3kqHpVwhsGmBlimHo8e+jkiAy2M/hV9x75S9i8TWGPcnnCzdXEtmDuDBetvpo=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=dkim_tw; 
+   d=aguasdelparaiso.com.ar; h=received:message-id:reply-to:from:to:subject:
+   date:mime-version:content-type:x-priority:x-msmail-priority:x-mailer:
+   x-mimeole; b=Mc0YdqAjgn/VuSr/+5wuNTVENFB4d8GZ6d0f/svvnfX20J4dgcL1dCpiXaD/ep
+   K45b58ROJ5sEu0M+7Tplz9SJ1xHLCcvWDQJDC9l+68uqdtgtN/ip1xE8t2dLOprtsLJpkvrMQ2I
+   ewkkrXQ0TD3F1ojOv5rPfOpeRD1WxUOW9U=
+Received: from Marcelo (localhost [127.0.0.1])
+	by ar12.toservers.com (Postfix) with SMTP id 9237AC35172C2
+	for <marioag@seraviatours.tur.ar>; Mon,  4 Mar 2013 19:31:50 -0300 (ART)
+Received: from [190.2.7.41] by cancerbero 2.8.0 (ar12.toservers.com) is AUTH
+Message-ID: <8ACFF609694347EE80A0E7FBF76AC24B@Marcelo>
+Reply-To: =?iso-8859-1?Q?Marcelo-Aguas_del_Para=EDso?= <operaciones@aguasdelparaiso.com.ar>
+From: =?iso-8859-1?Q?Marcelo-Aguas_del_Para=EDso?= <operaciones@aguasdelparaiso.com.ar>
+To: <marioag@seraviatours.tur.ar>
+Subject: FILE 8494
+Date: Mon, 4 Mar 2013 19:24:08 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_04DF_01CE190D.D7E8F1C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5931
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6157
+X-AV-Checked: ClamAV using ClamSMTP (punisher2)
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_04DF_01CE190D.D7E8F1C0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hola Mario
+
+Te consulto por el file 8494 que tuvo fecha de vencimiento de se=F1a en =
+el d=EDa de hoy, el mismo sigue vigente? Aguardo respuesta, desde ya =
+muchas gracias!
+
+Saludos
+Marcelo
+=20
+Horario de Lu a Vie 09:30 a 13:30 y 14:00 a 19:00=20
+Sabados de 09 a 13 hs guardia telefonica o via mail
+=20
+Aguas del Paraiso SRL
+Lavalle 384-PB
+Empresa de  Viajes    Turismo-Leg 10192
+CUIT 30-70855141-0
+4314-1625 o 4312-8474 o  5236-5534
+e-mail operaciones@aguasdelparaiso.com.ar
+www.aguasdelparaiso.com.ar
+www.costasdelparaiso.com.ar
+=20
+
+------=_NextPart_000_04DF_01CE190D.D7E8F1C0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19298">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Hola Mario</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV>
+<DIV><FONT size=3D2 face=3DArial>Te consulto por el file 8494 que tuvo =
+fecha de=20
+vencimiento de se=F1a en el d=EDa de hoy, el mismo sigue vigente? =
+Aguardo respuesta,=20
+desde ya muchas gracias!</FONT></DIV></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Saludos<BR>Marcelo<BR>&nbsp;<BR>Horario =
+de Lu a Vie=20
+09:30 a 13:30 y 14:00 a 19:00 <BR>Sabados de 09 a 13 hs guardia =
+telefonica o via=20
+mail<BR>&nbsp;<BR>Aguas del Paraiso SRL<BR>Lavalle 384-PB<BR>Empresa =
+de&nbsp;=20
+Viajes&nbsp;&nbsp;&nbsp; Turismo-Leg 10192<BR>CUIT =
+30-70855141-0<BR>4314-1625 o=20
+4312-8474 o&nbsp; 5236-5534<BR>e-mail <A=20
+href=3D"mailto:operaciones@aguasdelparaiso.com.ar">operaciones@aguasdelpa=
+raiso.com.ar</A><BR><A=20
+href=3D"http://www.aguasdelparaiso.com.ar">www.aguasdelparaiso.com.ar</A>=
+<BR><A=20
+href=3D"http://www.costasdelparaiso.com.ar">www.costasdelparaiso.com.ar</=
+A><BR>&nbsp;<BR></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_04DF_01CE190D.D7E8F1C0--
+

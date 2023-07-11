@@ -1,0 +1,54 @@
+Return-path: <efecto28@gmail.com>
+Envelope-to: nfo@seraviatours.tur.ar
+Delivery-date: Wed, 11 Jul 2012 23:00:51 -0300
+Received: from mail-qc0-f172.google.com ([209.85.216.172]:62895)
+	by ns3.lineadns.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.77)
+	(envelope-from <efecto28@gmail.com>)
+	id 1Sp8i2-0002eb-BI
+	for nfo@seraviatours.tur.ar; Wed, 11 Jul 2012 23:00:50 -0300
+Received: by qcac10 with SMTP id c10so1287402qca.31
+        for <nfo@seraviatours.tur.ar>; Wed, 11 Jul 2012 19:00:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=CuQSIif9X4IEFW3VVPNd/WffRMkbGnQvdSuuRg2Poyw=;
+        b=UYipdGFA9z5fPkACJUjGigj+LpJtv89IiZiqlDjpoUDeAiLIOoRou6RsjGBXH1JlTp
+         /4AEySR9ygtJprOuzpYySFlwEL9XBujj3uYYZuzWIhZ5JZ9ndWPTTFIrR+l8J4R5HwrA
+         aECwn/QYArejQUu757bNqJKWoeIcFbEWRzKGHViIwnr25TV2JCZyxBi3ocO7TV/Suyrk
+         q1bNKsznmFwU6qMEi/rLC9z2tX759Wq4Qyy9q2HJKxprh0UNGAe7TG2I5Wqyc6QwcmBf
+         MSl72T/tYcIOldEYntUyBjjQ04UT+HVZ/llcthmEs2L7iWqPn6kwG7beFljWLkeKJ8ZC
+         I4CQ==
+MIME-Version: 1.0
+Received: by 10.224.110.73 with SMTP id m9mr925041qap.6.1342058439405; Wed, 11
+ Jul 2012 19:00:39 -0700 (PDT)
+Received: by 10.229.39.11 with HTTP; Wed, 11 Jul 2012 19:00:39 -0700 (PDT)
+Date: Wed, 11 Jul 2012 23:00:39 -0300
+Message-ID: <CAFXo4K8C23BVpLoZ+2hs7MAV+Xq1r3G3=YTfBX4+6V6azNsv9Q@mail.gmail.com>
+Subject: Consulta
+From: Damian Carbone <efecto28@gmail.com>
+To: nfo@seraviatours.tur.ar
+Content-Type: multipart/alternative; boundary=20cf3066792b8c71cb04c49854a4
+
+--20cf3066792b8c71cb04c49854a4
+Content-Type: text/plain; charset=ISO-8859-1
+
+Quisiera hacerle una consulta, tenemos un folleto de destinos de vacaciones
+de la empresa de ustedes y queriamos saber si todavia tienen lugar para el
+paquete de buzios a $530 dolares y en caso de ser asi, si se puede pagar en
+pesos, a que valor seria y cuando es la salida del mismo.Espero su
+respuesta.
+Desde ya muchas gracias.
+
+--20cf3066792b8c71cb04c49854a4
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div>Quisiera hacerle una consulta, tenemos un folleto de destinos de vacac=
+iones de la empresa de ustedes y queriamos saber si todavia tienen lugar pa=
+ra el paquete de buzios a $530 dolares y en caso de ser asi, si se puede pa=
+gar en pesos, a que valor seria y cuando es la salida del mismo.Espero su r=
+espuesta.</div>
+<div>Desde ya muchas gracias.</div>
+
+--20cf3066792b8c71cb04c49854a4--

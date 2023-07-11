@@ -1,0 +1,48 @@
+Return-path: <>
+Envelope-to: seraviat@ns3.lineadns.com
+Delivery-date: Wed, 21 Dec 2011 05:20:53 -0300
+Received: from mailnull by ns3.lineadns.com with local (Exim 4.69)
+	id 1RdHPw-0005tm-Vr
+	for seraviat@ns3.lineadns.com; Wed, 21 Dec 2011 05:20:53 -0300
+X-Failed-Recipients: info@romarconstrucciones.com.ar
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns3.lineadns.com>
+To: seraviat@ns3.lineadns.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1RdHPw-0005tm-Vr@ns3.lineadns.com>
+Date: Wed, 21 Dec 2011 05:20:52 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@romarconstrucciones.com.ar
+    SMTP error from remote mail server after RCPT TO:<info@romarconstrucciones.com.ar>:
+    host romarconstrucciones.com.ar [93.174.4.8]:
+    553 sorry, that domain isn't in my list of allowed rcpthosts (#5.7.1)
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <seraviat@ns3.lineadns.com>
+Received: from seraviat by ns3.lineadns.com with local (Exim 4.69)
+	(envelope-from <seraviat@ns3.lineadns.com>)
+	id 1RdHPr-0005tX-3w
+	for info@romarconstrucciones.com.ar; Wed, 21 Dec 2011 05:20:47 -0300
+To: info@romarconstrucciones.com.ar
+Subject: Consulta Pasajes Aéreos
+From: marcomartinez@tiscali.it 
+X-Mailer: PHP/5.2.17 
+Mime-Version: 1.0 
+Content-Type: text/plain
+Message-Id: <E1RdHPr-0005tX-3w@ns3.lineadns.com>
+Sender:  <seraviat@ns3.lineadns.com>
+Date: Wed, 21 Dec 2011 05:20:47 -0300
+
+Este mensaje fue enviado por KvUvAwexyFiGKZxYnH 
+Su e-mail es: marcomartinez@tiscali.it 
+Ciudad: tsCCbyFphUKGOJZJ 
+Provincia: ohEpMlMtpltrgVI 
+Numero de Tel?fono: UTFCOeUxNmqiTdMPK 
+Mensaje: Ecomnoies are in dire straits, but I can count on this! 
+Enviado el 21/12/2011

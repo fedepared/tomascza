@@ -1,0 +1,20 @@
+#imCel1_01 {position: absolute; top: 0px; left: 10px; height: 373px; width: 231px; }
+#imObj1_01 img {border: none; height: 189px; width: 231px; vertical-align: bottom; }
+#imObj1_01 {padding: 0px; }
+#imCel1_01_Cont {text-align: center; height: 373px; overflow: hidden; }
+#imCel0_01 {position: absolute; top: 0px; left: 251px; height: 373px; width: 472px; background-image: url('../images/imcelbgp001_0_01.jpg'); background-repeat: no-repeat; }
+#imObj0_01 .ff0 {font-family: Times New Roman; }
+#imObj0_01 .ff1 {font-family: Tahoma; }
+#imObj0_01 .ff2 {font-family: Courier New; }
+#imObj0_01 .ff3 {font-family: Wingdings; }
+#imObj0_01 .ff4 {font-family: Symbol; }
+#imObj0_01 .ff5 {font-family: Verdana; }
+#imObj0_01 .ff6 {font-family: Verdana; }
+#imObj0_01 .fc1 {color: #FFFFFF; }
+#imObj0_01 .fc2 {color: #000000; }
+#imObj0_01 .fs12 {font-size: 16px ; vertical-align: baseline; line-height: 19px ; }
+#imObj0_01 .fs10 {font-size: 13px ; vertical-align: baseline; line-height: 16px ; }
+#imObj0_01 {padding: 5px; }
+#imCel0_01_Cont {text-align: center; height: 373px; overflow: hidden; }
+#imPage {position: relative; height: 383px; }
+

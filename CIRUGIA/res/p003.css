@@ -1,0 +1,20 @@
+#imCel1_00 {position: absolute; top: 0px; left: 10px; height: 251px; width: 271px; }
+#imObj1_00 img {border: none; height: 251px; width: 271px; vertical-align: bottom; }
+#imObj1_00 {padding: 0px; }
+#imCel1_00_Cont {text-align: center; height: 251px; overflow: hidden; }
+#imCel0_00 {position: absolute; top: 0px; left: 291px; height: 251px; width: 552px; background-image: url('../images/naranja+fondo_ok.jpg'); background-repeat: no-repeat; background-position: left top; }
+#imObj0_00 .ff0 {font-family: Times New Roman; }
+#imObj0_00 .ff1 {font-family: Tahoma; }
+#imObj0_00 .ff2 {font-family: Courier New; }
+#imObj0_00 .ff3 {font-family: Wingdings; }
+#imObj0_00 .ff4 {font-family: Symbol; }
+#imObj0_00 .ff5 {font-family: Symbol; }
+#imObj0_00 .ff6 {font-family: Verdana; }
+#imObj0_00 .fc1 {color: #FFFFFF; }
+#imObj0_00 .fc2 {color: #000000; }
+#imObj0_00 .fs12 {font-size: 16px ; vertical-align: baseline; line-height: 19px ; }
+#imObj0_00 .fs10 {font-size: 13px ; vertical-align: baseline; line-height: 16px ; }
+#imObj0_00 {padding: 5px; }
+#imCel0_00_Cont {text-align: center; height: 251px; overflow: hidden; }
+#imPage {position: relative; height: 360px; }
+

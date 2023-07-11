@@ -1,0 +1,290 @@
+Return-path: <javier@juantoselli.com>
+Envelope-to: matias@seraviatours.tur.ar
+Delivery-date: Tue, 30 Oct 2012 12:20:24 -0300
+Received: from juantoselli.juantoselli.com ([108.167.191.44]:59846)
+	by ns3.lineadns.com with esmtp (Exim 4.80)
+	(envelope-from <javier@juantoselli.com>)
+	id 1TTDc7-000551-I7; Tue, 30 Oct 2012 12:20:24 -0300
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+        d=juantoselli.com; s=domainkey;
+        h=received:from:to:cc:references:in-reply-to:subject:date
+          :message-id:mime-version:content-type:x-mailer:thread-index
+          :content-language;
+        b=kp6q1k5StVXhDbmG09OFLtaMelFoTdjJegKfUfzw//U4Rcu0tleC7R+9W46JRDvzR
+          fErFQFL5iM6Xr7zByjk1vbS5HdDIOMs7w6AMWQvmuT03Ymb8Xnvfghx7wWuqavf+3
+          Zs03jV9sMX8x0bf0yWdevsGJRjYIgpvcj8exzl2+s=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=juantoselli.com; s=domainkey;
+        h=content-language:thread-index:x-mailer:content-type:mime-version
+          :message-id:date:subject:in-reply-to:references:cc:to:from;
+        bh=IiposqTqjAfyxwFi2R2CeXv4oIbwhrsrK+uZEuWfGRo=;
+        b=EVYoLPxPo1PAEZ91Kv98Em3+XHEAVke7P8TPcIWfqw/qRjSWBUWAigzw6zR8bK32/
+          BvN12V6uK3Iegs+ECtbixr4LC6VNhwolNDjTqg3Xd2s9MyeM1LNP6OJXIyDexkql+
+          h+rataQ7dS90pygWAxqJaIK8deMnsl0LCNDmQwg94=
+Received: from Javier1 (UnknownHost [190.2.35.153]) by juantoselli.juantoselli.com with SMTP;
+   Tue, 30 Oct 2012 12:20:06 -0300
+From: "Javier Garcia / Juan Toselli Intl. Tours" <javier@juantoselli.com>
+To: <info@seraviatours.tur.ar>
+Cc: <matias@seraviatours.tur.ar>
+References: 
+In-Reply-To: 
+Subject: Presentacion Juan Toselli 
+Date: Tue, 30 Oct 2012 12:19:49 -0300
+Message-ID: <017501cdb6b2$0bcf2090$236d61b0$@juantoselli.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0176_01CDB698.E682D2F0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac2wip19YWzWKA9YSlSYJA99u5baewBo0m6wASD8HNA=
+Content-Language: es-ar
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0176_01CDB698.E682D2F0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0177_01CDB698.E682D2F0"
+
+
+------=_NextPart_001_0177_01CDB698.E682D2F0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Matias
+
+=20
+
+Buenas tardes!
+
+Me contacto de la mayorista de turismo  Juan Toselli International Tours
+para ofrecerles nuestros servicios.=20
+
+Contamos con salidas grupales todo el a=F1o.
+
+Tambien tenemos nuestro propio sistema de reservas, Ebooking,  en cual
+pueden hacer reservas de hoteles, trasaldos y excursiones. Es una
+herramienta muy facil de usar y productiva.
+
+=20
+
+Si desean podriamos abrirle un usuario para que puedan conocer el =
+sistema. O
+bien, si quieren podriamos acercarnos e informales sobre el mismo y =
+nuestros
+productos.
+
+=20
+
+Saludos cordiales,
+
+Javier Garcia
+Dpto. Ventas
+Juan toselli Intl. Tours
+Viamonte 783 P.7 Of. 67 (C1053ABO)
+Buenos Aires-Argentina
+Tel :(011) 4328- 0101  / 1376      5031-3830/1     int 4004
+Mail: javier@juantoselli.com
+Visite nuestra p=E1gina : www.juantoselli.com =
+<http://www.juantoselli.com/>=20
+
+Dibujo
+
+=20
+
+
+------=_NextPart_001_0177_01CDB698.E682D2F0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-1">
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta name=3DGenerator =
+content=3D"Microsoft Word 14 (filtered medium)"><!--[if =
+!mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-language:EN-US;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";}
+span.EstiloCorreo19
+	{mso-style-type:personal;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.EstiloCorreo20
+	{mso-style-type:personal;
+	font-family:"Arial","sans-serif";
+	color:black;}
+span.EstiloCorreo21
+	{mso-style-type:personal-reply;
+	font-family:"Arial","sans-serif";
+	color:black;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DES-AR link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>M=
+atias</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black;ms=
+o-fareast-language:ES-AR'><o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black;ms=
+o-fareast-language:ES-AR'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:black;mso=
+-fareast-language:ES-AR'>Buenas tardes!<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:black;mso=
+-fareast-language:ES-AR'>Me contacto de la mayorista de turismo =
+&nbsp;Juan Toselli International Tours para ofrecerles nuestros =
+servicios. <o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:black;mso=
+-fareast-language:ES-AR'>Contamos con salidas grupales todo el =
+a=F1o.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:black;mso=
+-fareast-language:ES-AR'>Tambien tenemos nuestro propio sistema de =
+reservas, Ebooking, &nbsp;en cual pueden hacer reservas de hoteles, =
+trasaldos y excursiones. Es una herramienta muy facil de usar y =
+productiva.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:black;mso=
+-fareast-language:ES-AR'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:black;mso=
+-fareast-language:ES-AR'>Si desean podriamos abrirle un usuario para que =
+puedan conocer el sistema. O bien, si quieren podriamos acercarnos e =
+informales sobre el mismo y nuestros productos.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:black;mso=
+-fareast-language:ES-AR'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:black;mso=
+-fareast-language:ES-AR'>Saludos cordiales,<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:black;mso=
+-fareast-language:ES-AR'>Javier Garcia<br>Dpto. Ventas<br>Juan toselli =
+Intl. Tours<br>Viamonte 783 P.7 Of. 67 (C1053ABO)<br>Buenos =
+Aires-Argentina<br>Tel :(011) 4328- 0101&nbsp; / =
+1376&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5031-3830/1&nbsp;&nbsp;&nbsp;&nbsp; =
+int 4004<br>Mail: <a =
+href=3D"mailto:javier@juantoselli.com">javier@juantoselli.com</a><br>Visi=
+te nuestra p=E1gina : <a =
+href=3D"http://www.juantoselli.com/">www.juantoselli.com</a><o:p></o:p></=
+span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";color:white;m=
+so-fareast-language:ES-AR'><img border=3D0 width=3D100 height=3D49 =
+id=3D"Imagen_x0020_1" src=3D"cid:image001.gif@01CDB06D.FC2FB040" =
+alt=3DDibujo></span><span =
+style=3D'mso-fareast-language:ES-AR'><o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_001_0177_01CDB698.E682D2F0--
+
+------=_NextPart_000_0176_01CDB698.E682D2F0
+Content-Type: image/gif;
+	name="image001.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <image001.gif@01CDB06D.FC2FB040>
+
+R0lGODlhZAAxAHcAACH/C01TT0ZGSUNFOS4wDQAAAAFzUkdCAK7OHOkAIf8LTVNPRkZJQ0U5LjAX
+AAAAC21zT1BNU09GRklDRTkuMEI8pPUALAAAAABkADEAhxSesxedtBubtRqgtTyNvzmOvjWRvTGS
+vC+TuyyUuimWuSeWuSWXuDOfvSCZtjCTuz6MwCqmuiOkuCGjty2ouzesvjKqvSaguTyuwEeNvlqU
+sUuOu1GQuE2PuUiNvVSRtV+Vrk+QuEKLwUGfwUeOw02RxEOMwVSWx1GUxkqQxEaNwlybylmayUSM
+wEiPw16cyleYyEmQw1aXyEGMwUm0xFW5yF28y1O4x1Stx1m7yVC2xkOxwk62xkmyxHeenWmZpmOX
+q2mdt26bo2yapXKdoWeYqWGey36hmHmltGqkznm8022lz2S/zWG+zHes03Sq0nGo0WiizW6m0GSg
+zH2v1Hmt036w1Xqu03Cn0Gq1z2KyzGW9zWq/z2+60He903/K1mnBzm3D0HXG0nrI1HHE0XjH03PA
+0oSjlZyvko6mjpCnjJWpiZmqhoqlkIe12IGx1YOz1pa/3Yu42ZS93JG724i22I662oy42ZG824W0
+14652o/J2obN2JzC34/R25nA3Z/E35rA2oTH15nT3prV3ojO2YPM15XT3ZHR3I3Q2pvW34zP2pfU
+3YrF2ZLK3J/X4J3T4J7O4K2yebq4db23b7m2caevfbKzdqGtgau+rLzW6avL46PZ4aLG4b/Y6rHe
+5qbI4rjV467N5K/O5ajK4rTR5rnU6LHP5aPH4bfT56zX5KPX4abb46rc47Xh57fh6Lnh6b7k6rzj
+6ci8Z8y9ZNG/YMO6at/EV9XAXtzCWt7GZNjTn9nXssXQvtzYr9bczcLa68re7cTb7Mfd7cnk7djn
+8sTl7N7y9czq7tro89/o5tTt8dHj8NPk8NXl8dDi793q9M3g7tfm8tnu8/HKS/nNRuPFVfbLSefH
+U+3JTuHEVvvbe/vfieXTiejdqPzkmfvps/zmpP3vw+/u3ery+PT4+/L4++/1+un2+Oz0+eTu9vv9
+/v3+/u71+f389/39/PX5/P/9+f756vv8/eHy9ezz+ejx9/H2+v7+/+Hs9fb49/j6/fL3++fw9+nx
++P///wj/AEUIHEiwoMGDCBMqVJhEE7lyxJSMWEixosWLGBWS2PTvnzlXX2iAWZKxpMmTA0uYUGik
+2D9jYZhwEjMgwp6VKHPqRHjinJuEb8qhazLmWEcMAADQQLGzqdMU6dSpONjp36sayDp2NIYBA6wS
+TsPq5AinYApP//iMWae17T9gYuOedPIvGcEVyYZ+ctuWXRK5gDGiMPdv0xMRUNrFsmGUr9Y+gSMv
+zKDhh7KO7ni98yOGreOOoCSLHrgByBlJs25RqyZOKzwwjz53jOdtEhokQVisMBJFyhMnTqKAHW0S
+SBpK1qopX86647IbWWX/iyfPnbt48dz9m6cu2CZQf1hM/yV+8QcmXNeYV8NGS5IaH0FCvWqCTnpb
+z//AcduWjdIZDuRdpMEatainTSVp/NDBQCQsYUws9MhmTj3MiOKGEaNoRYoQa9iSTTXUVOJDCwEm
+JEQlHyp3TS1s/OABQSk4UYo99gmTBAouEDSFKHFQQcJAHQhhSS7VaMPGByUS5MMszLEIgghG/NEH
+KKKYEsw99uEDDEnFYXJLNpI8GaAPtCwH5hAEJSEHMB3B04xLWuH3zz2jTLFTC0Qgd4mYkhVhy3K3
+HEkQC3KI4swzF+Y4R1t/0JGPMHUwJZYG51mCJGAcWJJeNbm0sYFAJrxgxyii1AHDCiwQdIIwptzx
+12ghdP+oRgZxHaGNctqk8aJAMMABSCkwJElRB2tIIoRTIVyiHDWYLKhqElNwKSxFH6zRhrMoCUFk
+NZTwOa1OpnmbkRrpYXPGt2K1UAQIJGKUgbLcXoquWB1gWxEHTFKjxrz8iqABLtXcgma/6IJwSzW2
+yEuwsCAkJ0m7Cwf4xCmnIHFLOL/8IRAep5ASgwgp/OHMPflskqoIS1BclghxnILKeCxQLDPFVYhA
+BTDt1OOJEwPlcaU6oqwgAgwzU+zECxRLQZAVFAc7UMudLNRHR91Uo88/0AjEzD/7lKBCMG6Rkyod
+Hd3DVDL/8JMjyo6hAgdfcogwdVv1yDAFX6Q80REeBIn/0tGrAqF9z0JxdLRNG/3844xAYLdDQhId
+7RMNOR0BIsIdWs0hwtb+rG1EMskQtg40yeCB9jyeaDIP1ilQvk8qzXT0xwodtQN6Mnfo/Y8eBJHS
+URQEbd0P4R1lIkLii4vQuApXdARZEvj8c8rlWvWjwjP/dF4Qm/wwVUI7igvkzD/9wIBlNCKwUM4+
+qND+DypLd8T7QL7/A/xAwi/US0eHIc/4P+1QQRU68hMZsOMfo6CeVuAwjOytbSDcYwpU/vEMgWCv
+HyigHDxAEYUToKAEd/vHzoCzgubtrne/Cx75FEKEb/DveOFTHgAF2BFpmEIYHUkg5v5xwGKMT3sE
+iaAI/0qQDgpa8B/2YFmchGGnKPAFFVCQHwrtp8LhIYQD2fDFC/0nwwAOkC86/Ac+0PIPtgARgmnz
+XhErKALs2SNHbxhfR/ixG74AIoonpF8K8bfCgtgBGMDYRS4CscV/NEMgDfRiR/rhDLQhUIFWiF1H
+zigQIRLRiCKIBvlKYAQWsEAKbPoHINyXiimYEgVU6Mgdpng/rfWRIJroCDg0MLf+/SMfKXCBNP5x
+Dhqe8AUHDOM/npDKST6wkmkc4jn+IQ2B7LIfMmgHO4IBpY5swn2kMIE2RWCFjswhBeBUQf2kAM4U
+mCB/BSlFR/QBjCL+AwoigJM61NERdYjAhHaAUjAVSP8FEdDTgdtLpgrywcNoRCN6yYiBP3g4DIL+
+Yw7ug4c/JjoH3fFjov5wAyA6kg6MTgFsViTIE8bhlmKAhQqr0wo+6iCCN3hTBCFMhQjI9o+y2KEj
+5jimDNlxAoHAQU7rsKlb1IGCELYlb3z5Q1XcsoStDa4gRNAFIIRRjGEAQlIiSIIontGMUmBBIEZA
+BSr+goJOoOIKIoiCWI0AMkCg4g/j6Rkq+pCCgSxhFMxgximk9YRUOCMYneipDMRKWCiyoLBiTQIU
+EIsKGdQBFXEoSAtoQYS4zAACBCBAAQpgAAMc4AAIQEACEqAABSzgtAtggGpXy9rWuva1sHXtAgpy
+Gsv/Ypaznk1AFrSAAwZsQRCQGMQWCFGIHHBCBxiQwA4wMIEd2IAQhAgDDSjAiSZQoAIU0AEAagAA
+G0QgKYYgxCFoUN3sRuAGZHiEBXTACR4AgCAeoITCmnJZzXYWtJHYgyoaAAlBTGMViHiFIRDhikeU
+AQxMyAEGHmEDZLjCEF8oAys+YYNE7MAQA3gFABSBFAAYYhrQnbANvoCBRbDiwYpgBA8CQJAztEEu
+9SXAfREQiUYQ4xOQcMAgLsAFWfTgC4/wQxjooQgakEEWAygDDTCgCEUAoAyLOMYjwsADY1QAER0G
+ACMi0AoAiIEQYsBAIR6hiDIkohASYLFAPIAJWtnW376epbEjHOFfB0AiAmLgQgD4wIgvgAEMx2BC
+LIwBBjHoYAeH4MQADlGIMMSCD6yIxSH8kOVHROATA0AEH76wAz8g4hFMAACk1SwCIlQWxpiVcZyV
+0AUvMKALDjDDBXTwiUNwwQJgGAMGKlCGHAyADDbAgAVsQANXkKECNZCAGMjg5S+0YgxJIcMAil2G
+ABziExYggwS+kIhW0EDNLTiCm9+MW9CSNrUOcIAA1h2Adifl3fCOt7znTW96q/kDQIhMjDfbWc8+
+QLSjLS1qUxvbghu84LP117gj9q1PMXxeAQEAOw==
+
+------=_NextPart_000_0176_01CDB698.E682D2F0--
+
+

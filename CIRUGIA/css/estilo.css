@@ -1,0 +1,56 @@
+
+.contenedor{
+    width: 1080px;
+    margin: auto;
+    background: blank;
+    color: bisque;
+    padding: 20px 15px 50px 50px;
+    border-radius: 10px;
+   
+}
+
+.contenedor .titulo{
+    font-size: 3.5ex;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#pestanas {
+    float: top;
+    margin-left: 40px;
+    font-size: 3ex;
+    font-weight: bold;
+}
+
+#pestanas ul{
+    margin-left: -40px;    
+}
+
+#pestanas li{
+    list-style-type: none;
+    float: left;
+    text-align: center;
+    margin: 0px 2px -2px -0px;
+    background: transparent;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 2px solid #c9e7f1;
+    border-bottom: #7D997D;
+    padding: 0px 20px 0px 20px;
+}
+
+#pestanas a:link{
+    text-decoration: none;
+    color: darkred;
+}
+
+#contenidopestanas{
+    clear: both;  
+    background: transparent;
+    padding: 20px 0px 20px 20px;
+    border-radius: 5px;
+    border-top-left-radius: 0px;
+    border: 2px solid #c9e7f1;
+    width: 1025px;
+}

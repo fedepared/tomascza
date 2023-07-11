@@ -1,0 +1,994 @@
+[28-Aug-2015 20:47:34 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks&key=275244246600-v5bvkmruom7baqih05sm6q6q69akhfbe.apps.googleusercontent.com: (400) Bad Request' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api-php-client-master/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Obj in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php on line 110
+[28-Aug-2015 20:57:07 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks&key=275244246600-v5bvkmruom7baqih05sm6q6q69akhfbe.apps.googleusercontent.com: (400) Bad Request' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api-php-client-master/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Obj in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php on line 110
+[28-Aug-2015 20:59:39 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks&key=275244246600-v5bvkmruom7baqih05sm6q6q69akhfbe.apps.googleusercontent.com: (400) Bad Request' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api-php-client-master/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Obj in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php on line 110
+[28-Aug-2015 21:08:42 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks&key=AIzaSyC1f8MD5nL5P5q394MoIv7t-pf--rU_PUc: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google- in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php on line 110
+[28-Aug-2015 21:09:21 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks&key=AIzaSyC1f8MD5nL5P5q394MoIv7t-pf--rU_PUc: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google- in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php on line 110
+[28-Aug-2015 21:13:19 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks&key=AIzaSyC1f8MD5nL5P5q394MoIv7t-pf--rU_PUc: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google- in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php on line 110
+[28-Aug-2015 21:20:05 America/Buenos_Aires] PHP Fatal error:  Class 'google\appengine\api\app_identity\AppIdentityService' not found in /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/AppIdentity.php on line 79
+[28-Aug-2015 22:08:58 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks&key=AIzaSyC1f8MD5nL5P5q394MoIv7t-pf--rU_PUc: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google- in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php on line 110
+[28-Aug-2015 22:11:48 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Wrong number of segments in token: ' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php:519
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php(491): Google_Auth_OAuth2->verifySignedJwtWithCerts(NULL, Array, '153718663530-hb...', 'accounts.google...')
+#1 /home4/toma930/public_html/google-api-php-client-master/src/Google/Client.php(482): Google_Auth_OAuth2->verifyIdToken(NULL)
+#2 /home4/toma930/public_html/google-api-php-client-master/examples/idtoken.php(78): Google_Client->verifyIdToken()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php on line 519
+[28-Aug-2015 22:13:00 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Wrong number of segments in token: ' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php:519
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php(491): Google_Auth_OAuth2->verifySignedJwtWithCerts(NULL, Array, '153718663530-hb...', 'accounts.google...')
+#1 /home4/toma930/public_html/google-api-php-client-master/src/Google/Client.php(482): Google_Auth_OAuth2->verifyIdToken(NULL)
+#2 /home4/toma930/public_html/google-api-php-client-master/examples/idtoken.php(78): Google_Client->verifyIdToken()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php on line 519
+[28-Aug-2015 22:13:19 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Wrong number of segments in token: ' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php:519
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php(491): Google_Auth_OAuth2->verifySignedJwtWithCerts(NULL, Array, '153718663530-hb...', 'accounts.google...')
+#1 /home4/toma930/public_html/google-api-php-client-master/src/Google/Client.php(482): Google_Auth_OAuth2->verifyIdToken(NULL)
+#2 /home4/toma930/public_html/google-api-php-client-master/examples/idtoken.php(78): Google_Client->verifyIdToken()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php on line 519
+[28-Aug-2015 22:13:22 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Wrong number of segments in token: ' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php:519
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php(491): Google_Auth_OAuth2->verifySignedJwtWithCerts(NULL, Array, '153718663530-hb...', 'accounts.google...')
+#1 /home4/toma930/public_html/google-api-php-client-master/src/Google/Client.php(482): Google_Auth_OAuth2->verifyIdToken(NULL)
+#2 /home4/toma930/public_html/google-api-php-client-master/examples/idtoken.php(78): Google_Client->verifyIdToken()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php on line 519
+[28-Aug-2015 22:19:11 America/Buenos_Aires] PHP Fatal error:  Call to a member function listVolumes() on a non-object in /home4/toma930/public_html/google-api-php-client-master/examples/user-example.php on line 126
+[28-Aug-2015 22:19:16 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling POST https://www.googleapis.com/urlshortener/v1/url: (403) Access Not Configured. The API (URL Shortener API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api-php-client-master/src/Google/Client.php(593): Google_Http_REST::execu in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php on line 110
+[28-Aug-2015 22:23:41 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling POST https://www.googleapis.com/urlshortener/v1/url: (403) Access Not Configured. The API (URL Shortener API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api-php-client-master/src/Google/Client.php(593): Google_Http_REST::execu in /home4/toma930/public_html/google-api-php-client-master/src/Google/Http/REST.php on line 110
+[28-Aug-2015 22:37:31 America/Buenos_Aires] PHP Catchable fatal error:  Object of class Google_Service_Calendar_Event could not be converted to string in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 72
+[28-Aug-2015 22:42:02 America/Buenos_Aires] PHP Catchable fatal error:  Object of class Google_Service_Calendar_Event could not be converted to string in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 72
+[28-Aug-2015 22:43:22 America/Buenos_Aires] PHP Catchable fatal error:  Object of class Google_Service_Calendar_Event could not be converted to string in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 73
+[28-Aug-2015 22:45:18 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getEtags() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 73
+[28-Aug-2015 23:16:13 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getTimeZone() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[28-Aug-2015 23:16:31 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::gettimeZone() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[28-Aug-2015 23:21:21 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:25:47 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getTimeZone() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:26:07 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getTimezone() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:26:21 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::gettimeZone() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:33:05 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::geDateCreated() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:33:24 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getDateCreated() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:34:30 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getStartTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:34:52 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getEventSeries() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:35:52 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getDateCreated() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:35:59 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getDateCreated() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:37:22 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getCreators() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:41:44 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getMyStatus() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 75
+[28-Aug-2015 23:43:18 America/Buenos_Aires] PHP Fatal error:  Call to undefined function prinnt_r() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:00:30 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct('<a class='login...', 'notasecret')
+#1 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api-php-client-master/examples/prueba1.php(33): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api-php-client-master/src/Google/Signer/P12.php on line 55
+[29-Aug-2015 00:01:01 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access noemi2015 in /home4/toma930/public_html/google-api-php-client-master/examples/prueba1.php on line 22
+[29-Aug-2015 00:01:01 America/Buenos_Aires] PHP Warning:  file_get_contents(noemi2015) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api-php-client-master/examples/prueba1.php on line 22
+[29-Aug-2015 00:01:01 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api-php-client-master/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api-php-client-master/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api-php-client-master/examples/prueba1.php(33): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api-php-client-master/src/Google/Signer/P12.php on line 55
+[29-Aug-2015 00:08:30 America/Buenos_Aires] PHP Catchable fatal error:  Object of class Google_Service_Calendar_EventDateTime could not be converted to string in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 73
+[29-Aug-2015 00:09:42 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getdateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 73
+[29-Aug-2015 00:09:50 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getDateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 73
+[29-Aug-2015 00:09:59 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::DateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 73
+[29-Aug-2015 00:10:07 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::dateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 73
+[29-Aug-2015 00:16:08 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getDateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 73
+[29-Aug-2015 00:17:29 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getEmail() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 73
+[29-Aug-2015 00:28:04 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 00:30:53 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Events::getDateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:32:44 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:32:51 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:33:21 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:33:24 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:33:30 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:33:35 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:34:07 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Events::getAllTagKeys() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:34:19 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Events::getAll() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:34:25 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Events::getAll() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:49:04 America/Buenos_Aires] PHP Fatal error:  Call to a member function dateTime() on a non-object in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 00:53:22 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:08:47 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '[' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:15:10 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:15:18 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:15:24 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:15:38 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getDateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:15:49 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::getdateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:15:55 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::dateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:16:03 America/Buenos_Aires] PHP Fatal error:  Call to undefined method Google_Service_Calendar_Event::DateTime() in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:17:24 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_STRING in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 78
+[29-Aug-2015 01:19:08 America/Buenos_Aires] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:19:36 America/Buenos_Aires] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:20:12 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:25:09 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 78
+[29-Aug-2015 01:29:38 America/Buenos_Aires] PHP Warning:  extract() [<a href='function.extract'>function.extract</a>]: specified extract type requires the prefix parameter in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:31:55 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 81
+[29-Aug-2015 01:46:59 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:46:59 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:46:59 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:47:16 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:47:16 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:47:16 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:47:54 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:47:54 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:47:54 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:50:33 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:51:17 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:51:17 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:51:17 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:51:41 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:51:41 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:51:41 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:51:59 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:51:59 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:51:59 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:52:54 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:53:09 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:54:02 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:54:51 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:55:15 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:55:40 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:55:40 America/Buenos_Aires] PHP Catchable fatal error:  Object of class Google_Service_Calendar_EventCreator could not be converted to string in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:55:58 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:56:18 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:57:27 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:57:41 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:58:06 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:58:25 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:59:04 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 01:59:37 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 77
+[29-Aug-2015 01:59:51 America/Buenos_Aires] PHP Warning:  extract() expects parameter 1 to be array, object given in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 76
+[29-Aug-2015 02:05:47 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '=', expecting T_VARIABLE or '$' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 71
+[29-Aug-2015 02:06:08 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '=', expecting T_VARIABLE or '$' in /home4/toma930/public_html/google-api-php-client-master/examples/prueba.php on line 71
+[29-Aug-2015 05:05:36 America/Buenos_Aires] PHP Warning:  include_once() [<a href='function.include-once'>function.include-once</a>]: Unable to access /../ONLINE/admin/class/conexion.php in /home4/toma930/public_html/google-api/examples/consultorio.php on line 2
+[29-Aug-2015 05:05:36 America/Buenos_Aires] PHP Warning:  include_once(/../ONLINE/admin/class/conexion.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/consultorio.php on line 2
+[29-Aug-2015 05:05:36 America/Buenos_Aires] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/../ONLINE/admin/class/conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home4/toma930/public_html/google-api/examples/consultorio.php on line 2
+[29-Aug-2015 05:05:36 America/Buenos_Aires] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/toma930/public_html/google-api/examples/consultorio.php:2) in /home4/toma930/public_html/google-api/examples/consultorio.php on line 6
+[29-Aug-2015 05:05:37 America/Buenos_Aires] PHP Fatal error:  Call to undefined function Conectarse() in /home4/toma930/public_html/google-api/examples/consultorio.php on line 106
+[29-Aug-2015 05:13:05 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/toma930/public_html/google-api/examples/consultorio.php on line 110
+[29-Aug-2015 05:15:06 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/toma930/public_html/google-api/examples/consultorio.php on line 125
+[29-Aug-2015 05:36:04 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home4/toma930/public_html/google-api/examples/consultorio.php on line 236
+[29-Aug-2015 05:46:29 America/Buenos_Aires] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home4/toma930/public_html/google-api/examples/consultorio.php on line 171
+[29-Aug-2015 11:42:17 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 11:43:02 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 11:43:27 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 11:45:28 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 11:47:55 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 11:48:02 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 11:48:03 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 11:48:05 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 11:48:06 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 11:48:07 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:04:50 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:05:13 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:07:03 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:47 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:49 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:50 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:50 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:51 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:51 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:51 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:51 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:52 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:52 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:52 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:52 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:52 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:53 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:08:55 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:09:41 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[29-Aug-2015 12:09:45 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(59): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[30-Aug-2015 13:39:23 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '}' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 291
+[30-Aug-2015 13:39:51 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '*' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 108
+[30-Aug-2015 13:39:53 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '*' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 108
+[30-Aug-2015 13:40:05 America/Buenos_Aires] PHP Fatal error:  Call to undefined function getClient() in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 58
+[30-Aug-2015 13:45:58 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100&orderBy=startTime&singleEvents=true&timeMin=pm: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237): Google_Client->execut in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 13:46:08 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100&orderBy=startTime&singleEvents=true&timeMin=b: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237): Google_Client->execute in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 13:46:25 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100&orderBy=startTime&singleEvents=true&timeMin=30: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237): Google_Client->execut in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 13:50:43 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=1000&orderBy=startTime&singleEvents=true&timeMin=2015-08-01+00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237): in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 13:59:39 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?orderBy=startTime&singleEvents=true&timeMin=2015-08-01ART00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237): Google_Client in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 13:59:56 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMin=2015-08-01ART00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(2 in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:00:17 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMin=2015-08-01ART00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(2 in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:00:59 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?orderBy=startTime&singleEvents=true&timeMin=2015-08-01ART00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237): Google_Client in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:01:04 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMin=2015-08-01ART00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(2 in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:01:09 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMin=2015-08-01ART00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(2 in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:02:05 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMin=2015-08-01ART00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(2 in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:02:27 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMax=2015-08-01ART00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(2 in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:02:43 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ',' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 69
+[30-Aug-2015 14:02:54 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ',' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 69
+[30-Aug-2015 14:03:03 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMin=2015-08-01T00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237 in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:03:03 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/primary/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMin=2015-08-01T00%3A00%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237 in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:04:38 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ')' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 72
+[30-Aug-2015 14:16:41 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Exception' with message '(list) unknown parameter: 'orderBy'' in /home4/toma930/public_html/google-api/src/Google/Service/Resource.php:148
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#1 /home4/toma930/public_html/google-api/examples/endoscopia.php(89): Google_Service_Calendar_CalendarList_Resource->listCalendarList(Array)
+#2 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Service/Resource.php on line 148
+[30-Aug-2015 14:18:37 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/4mph3s8holr9b0vsce3nf95ems/events: (404) Not Found' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237): Google_Client->execute(Object(Google_Http_Request))
+#6 /home4/toma in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:20:02 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '}' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 303
+[30-Aug-2015 14:20:24 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/4mph3s8holr9b0vsce3nf95ems/events: (404) Not Found' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237): Google_Client->execute(Object(Google_Http_Request))
+#6 /home4/toma in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:21:09 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/4mph3s8holr9b0vsce3nf95ems/events: (404) Not Found' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(237): Google_Client->execute(Object(Google_Http_Request))
+#6 /home4/toma in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:28:15 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (Y-m-d\TH:i:sP) at position 1 (-): Unexpected character' in /home4/toma930/public_html/google-api/examples/endoscopia.php:61
+Stack trace:
+#0 /home4/toma930/public_html/google-api/examples/endoscopia.php(61): DateTime->__construct('Y-m-d\TH:i:sP')
+#1 {main}
+  thrown in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 61
+[30-Aug-2015 14:28:45 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (Y-m-d\TH:i:sP) at position 1 (-): Unexpected character' in /home4/toma930/public_html/google-api/examples/endoscopia.php:61
+Stack trace:
+#0 /home4/toma930/public_html/google-api/examples/endoscopia.php(61): DateTime->__construct('Y-m-d\TH:i:sP')
+#1 {main}
+  thrown in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 61
+[30-Aug-2015 14:31:05 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/secretariaendoscopias%40gmail.com/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMin=2015-07-31ART21%3A00%3A00-03%3A00: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:32:10 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/calendar/v3/calendars/secretariaendoscopias%40gmail.com/events?maxResults=100000&orderBy=startTime&singleEvents=true&timeMin=2015: (400) Bad Request' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /home4/toma930/public_html/google-api/src/Google/Service/Resource. in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[30-Aug-2015 14:35:08 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 71
+[30-Aug-2015 14:45:56 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '.' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 285
+[30-Aug-2015 14:46:58 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '.' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 285
+[06-Sep-2015 19:19:32 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 71
+[06-Sep-2015 20:27:48 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(75): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[06-Sep-2015 20:29:18 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(75): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[06-Sep-2015 20:30:15 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(75): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[06-Sep-2015 20:30:56 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/consultorio.php(75): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[10-Sep-2015 23:46:55 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '=' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 296
+[11-Sep-2015 00:01:36 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:16:21 America/Buenos_Aires] PHP Fatal error:  Cannot redeclare class imEMail in /home4/toma930/public_html/ONLINE/admin/res/imemail.inc.php on line 7
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[11-Sep-2015 00:22:59 America/Buenos_Aires] PHP Warning:  explode() expects parameter 2 to be string, array given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 293
+[12-Sep-2015 22:45:44 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected '"' in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 99
+[12-Sep-2015 22:46:41 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/endoscopia.php(100): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[12-Sep-2015 22:50:53 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks&key=AIzaSyC1f8MD5nL5P5q394MoIv7t-pf--rU_PUc: (403) There is a per-IP or per-Referer restriction configured on your API key and the request does not match these restrictions. Please use the Google Developers Console to update your API key configuration if request from this IP or referer should be allowed.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+# in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[12-Sep-2015 22:51:26 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/endoscopia.php(100): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[12-Sep-2015 22:51:57 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'The OAuth 2.0 access token has expired, and a refresh token is not available. Refresh tokens are not returned for responses that were auto-approved.' in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php:248
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Service/Resource.php(214): Google_Auth_OAuth2->sign(Object(Google_Http_Request))
+#1 /home4/toma930/public_html/google-api/src/Google/Service/Calendar.php(1137): Google_Service_Resource->call('list', Array, 'Google_Service_...')
+#2 /home4/toma930/public_html/google-api/examples/endoscopia.php(100): Google_Service_Calendar_CalendarList_Resource->listCalendarList()
+#3 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php on line 248
+[12-Sep-2015 22:58:34 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access dialeta4ever in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 22:58:34 America/Buenos_Aires] PHP Warning:  file_get_contents(dialeta4ever) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 22:58:34 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php on line 55
+[12-Sep-2015 23:14:23 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access consultorio-c0ed7a99d1d5.p12 in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:14:23 America/Buenos_Aires] PHP Warning:  file_get_contents(consultorio-c0ed7a99d1d5.p12) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:14:23 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php on line 55
+[12-Sep-2015 23:14:45 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access consultorio-c0ed7a99d1d5.p12 in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:14:45 America/Buenos_Aires] PHP Warning:  file_get_contents(consultorio-c0ed7a99d1d5.p12) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:14:45 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php on line 55
+[12-Sep-2015 23:15:29 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access consultorio-c0ed7a99d1d5.p12 in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:15:29 America/Buenos_Aires] PHP Warning:  file_get_contents(consultorio-c0ed7a99d1d5.p12) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:15:29 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php on line 55
+[12-Sep-2015 23:21:42 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access c0ed7a99d1d5.p12 in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:21:42 America/Buenos_Aires] PHP Warning:  file_get_contents(c0ed7a99d1d5.p12) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:21:42 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php on line 55
+[12-Sep-2015 23:25:34 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access c0ed7a99d1d5cbedfc71279cf3b48a86eb5d62cb in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:25:34 America/Buenos_Aires] PHP Warning:  file_get_contents(c0ed7a99d1d5cbedfc71279cf3b48a86eb5d62cb) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:25:34 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php on line 55
+[12-Sep-2015 23:25:36 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access c0ed7a99d1d5cbedfc71279cf3b48a86eb5d62cb in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:25:36 America/Buenos_Aires] PHP Warning:  file_get_contents(c0ed7a99d1d5cbedfc71279cf3b48a86eb5d62cb) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:25:36 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php on line 55
+[12-Sep-2015 23:33:28 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access ef497ab6045ee7b14aa46b9ceeb9acb571a4328b in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:33:28 America/Buenos_Aires] PHP Warning:  file_get_contents(ef497ab6045ee7b14aa46b9ceeb9acb571a4328b) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:33:28 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php on line 55
+[12-Sep-2015 23:33:36 America/Buenos_Aires] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access ef497ab6045ee7b14aa46b9ceeb9acb571a4328b in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:33:36 America/Buenos_Aires] PHP Warning:  file_get_contents(ef497ab6045ee7b14aa46b9ceeb9acb571a4328b) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/examples/service-account.php on line 66
+[12-Sep-2015 23:33:36 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Unable to parse the p12 file.  Is this a .p12 file?  Is the password correct?  OpenSSL error: ' in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php:55
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(130): Google_Signer_P12->__construct(false, 'notasecret')
+#1 /home4/toma930/public_html/google-api/src/Google/Auth/AssertionCredentials.php(107): Google_Auth_AssertionCredentials->makeSignedJwt(Array)
+#2 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(312): Google_Auth_AssertionCredentials->generateAssertion()
+#3 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#4 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Signer/P12.php on line 55
+[12-Sep-2015 23:34:29 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 149
+[12-Sep-2015 23:34:29 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:154
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 154
+[12-Sep-2015 23:36:30 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 149
+[12-Sep-2015 23:36:30 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:154
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 154
+[12-Sep-2015 23:39:27 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 149
+[12-Sep-2015 23:39:27 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:154
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 154
+[12-Sep-2015 23:39:37 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 149
+[12-Sep-2015 23:39:37 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:154
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 154
+[12-Sep-2015 23:39:39 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 149
+[12-Sep-2015 23:39:39 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:154
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 154
+[12-Sep-2015 23:39:41 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 149
+[12-Sep-2015 23:39:41 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:154
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 154
+[12-Sep-2015 23:41:43 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 149
+[12-Sep-2015 23:41:43 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:154
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 154
+[12-Sep-2015 23:52:24 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 150
+[12-Sep-2015 23:52:24 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:155
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 155
+[12-Sep-2015 23:53:39 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 150
+[12-Sep-2015 23:53:39 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:155
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 155
+[12-Sep-2015 23:54:48 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 150
+[12-Sep-2015 23:54:48 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:156
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 156
+[12-Sep-2015 23:55:08 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 150
+[12-Sep-2015 23:55:08 America/Buenos_Aires] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Unable to access /tmp/Google_Client/2d/2df704a558e2de95db596d227092cb13 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 183
+[12-Sep-2015 23:55:08 America/Buenos_Aires] PHP Warning:  fopen(/tmp/Google_Client/2d/2df704a558e2de95db596d227092cb13) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 183
+[12-Sep-2015 23:55:08 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /ho in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[12-Sep-2015 23:56:15 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /ho in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[12-Sep-2015 23:56:28 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /ho in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[12-Sep-2015 23:57:07 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /ho in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[12-Sep-2015 23:57:39 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 150
+[12-Sep-2015 23:57:39 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:156
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 156
+[13-Sep-2015 00:00:39 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 150
+[13-Sep-2015 00:00:39 America/Buenos_Aires] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Unable to access /tmp/Google_Client/2d/2df704a558e2de95db596d227092cb13 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 183
+[13-Sep-2015 00:00:39 America/Buenos_Aires] PHP Warning:  fopen(/tmp/Google_Client/2d/2df704a558e2de95db596d227092cb13) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 183
+[13-Sep-2015 00:00:40 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /ho in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[13-Sep-2015 00:01:40 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /ho in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[13-Sep-2015 00:03:18 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /ho in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[13-Sep-2015 00:03:25 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /ho in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[13-Sep-2015 00:03:31 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Service_Exception' with message 'Error calling GET https://www.googleapis.com/books/v1/volumes?q=Henry+David+Thoreau&filter=free-ebooks: (403) Access Not Configured. The API (Books API) is not enabled for your project. Please use the Google Developers Console to update your configuration.' in /home4/toma930/public_html/google-api/src/Google/Http/REST.php:110
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(62): Google_Http_REST::decodeHttpResponse(Object(Google_Http_Request), Object(Google_Client))
+#1 [internal function]: Google_Http_REST::doExecute(Object(Google_Client), Object(Google_Http_Request))
+#2 /home4/toma930/public_html/google-api/src/Google/Task/Runner.php(174): call_user_func_array(Array, Array)
+#3 /home4/toma930/public_html/google-api/src/Google/Http/REST.php(46): Google_Task_Runner->run()
+#4 /home4/toma930/public_html/google-api/src/Google/Client.php(593): Google_Http_REST::execute(Object(Google_Client), Object(Google_Http_Request))
+#5 /ho in /home4/toma930/public_html/google-api/src/Google/Http/REST.php on line 110
+[27-Sep-2015 15:36:35 America/Buenos_Aires] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: SAFE MODE Restriction in effect.  The script whose uid is 1481 is not allowed to access /tmp owned by uid 0 in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 150
+[27-Sep-2015 15:36:35 America/Buenos_Aires] PHP Fatal error:  Uncaught exception 'Google_Cache_Exception' with message 'Could not create storage directory: /tmp/Google_Client/2d' in /home4/toma930/public_html/google-api/src/Google/Cache/File.php:156
+Stack trace:
+#0 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(139): Google_Cache_File->getCacheDir('679e70341ef2633...', true)
+#1 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(134): Google_Cache_File->getCacheFile('679e70341ef2633...', true)
+#2 /home4/toma930/public_html/google-api/src/Google/Cache/File.php(95): Google_Cache_File->getWriteableCacheFile('679e70341ef2633...')
+#3 /home4/toma930/public_html/google-api/src/Google/Auth/OAuth2.php(321): Google_Cache_File->set('679e70341ef2633...', '{"access_token"...')
+#4 /home4/toma930/public_html/google-api/examples/service-account.php(74): Google_Auth_OAuth2->refreshTokenWithAssertion(Object(Google_Auth_AssertionCredentials))
+#5 {main}
+  thrown in /home4/toma930/public_html/google-api/src/Google/Cache/File.php on line 156
+[27-Sep-2015 22:17:29 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/toma930/public_html/google-api/examples/consultorio.php on line 295
+[27-Sep-2015 22:54:28 America/Buenos_Aires] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home4/toma930/public_html/google-api/examples/consultorio.php on line 268
+[27-Sep-2015 22:54:28 America/Buenos_Aires] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home4/toma930/public_html/google-api/examples/consultorio.php on line 269
+[27-Sep-2015 22:54:28 America/Buenos_Aires] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'toma930'@'localhost' (using password: NO) in /home4/toma930/public_html/google-api/examples/consultorio.php on line 289
+[27-Sep-2015 22:54:28 America/Buenos_Aires] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home4/toma930/public_html/google-api/examples/consultorio.php on line 289
+[27-Sep-2015 23:14:44 America/Buenos_Aires] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 307
+[27-Sep-2015 23:14:44 America/Buenos_Aires] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 308
+[27-Sep-2015 23:14:44 America/Buenos_Aires] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'toma930'@'localhost' (using password: NO) in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 329
+[27-Sep-2015 23:14:44 America/Buenos_Aires] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 329
+[27-Sep-2015 23:14:45 America/Buenos_Aires] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 307
+[27-Sep-2015 23:14:45 America/Buenos_Aires] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 308
+[27-Sep-2015 23:14:45 America/Buenos_Aires] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'toma930'@'localhost' (using password: NO) in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 329
+[27-Sep-2015 23:14:45 America/Buenos_Aires] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home4/toma930/public_html/google-api/examples/endoscopia.php on line 329
+[03-Oct-2015 11:35:18 America/Buenos_Aires] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home4/toma930/public_html/google-api/examples/mailconsultorio.php on line 9
+[03-Oct-2015 11:56:33 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_WHILE in /home4/toma930/public_html/google-api/examples/mailconsultorio.php on line 26
+[03-Oct-2015 12:26:02 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home4/toma930/public_html/google-api/examples/lunesEndoscopia.php on line 32
+[03-Oct-2015 13:14:01 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/toma930/public_html/google-api/examples/grupoEndoscopia.php on line 34
+[24-Jul-2018 18:41:36 America/Sao_Paulo] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Sao_Paulo' for '-03/-3.0/no DST' instead in /home9/toma930/public_html/google-api/examples/consultorio.php on line 26

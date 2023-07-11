@@ -1,0 +1,326 @@
+Return-path: <sender@sypred.com>
+Envelope-to: matiassag@seraviatours.tur.ar
+Delivery-date: Tue, 17 Jan 2012 13:39:32 -0300
+Received: from ar30.toservers.com ([200.80.42.130]:53319)
+	by ns3.lineadns.com with esmtp (Exim 4.69)
+	(envelope-from <sender@sypred.com>)
+	id 1RnC4K-00027U-L2
+	for matiassag@seraviatours.tur.ar; Tue, 17 Jan 2012 13:39:32 -0300
+Received: from ar30.toservers.com (punisher [192.168.1.230])
+	by ar30.toservers.com (Postfix) with ESMTP id 112B53EA1B2D8;
+	Tue, 17 Jan 2012 13:39:27 -0300 (ART)
+Received: by ar30.toservers.com (Postfix, from userid 7054)
+	id 9B5A53EA1B0AC; Tue, 17 Jan 2012 13:39:22 -0300 (ART)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=sypred.com;
+ i=@sypred.com; q=dns/txt; s=dkim_tw; t=1326818362;
+ h=DomainKey-Signature : Subject : From : Date : To : MIME-Version :
+ Content-Type : Message-Id;
+ bh=dtl5ScUCc1IQYjz2Cfb/ZO2g3f01KibxoFgpSEd78pk=; b=H9sAnDfzVTGi5+UiHJ6h1+Pl/OPFK07l3aPCHYefbZBouK+kHKdGWayt9GQMevzNoBKSI1mQ5cvhA0GTT+yp9HFnjUfKrFgKqp7KZv2SALfRcEkFxAfWqrkAos32mCRZJPwTSWYjf090uKYH24kpQG6usXZa/YPc2X8jvVp4NPQ=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=dkim_tw; d=sypred.com; h=
+   received:subject:sender:from:date:to:reply-to:x-priority:x-msmail-priority:
+   content-transfer-encoding:mime-version:x-user_ip:x-mailer:content-type:
+   message-id; b=MXYfPJTDZQOtlcVwi3G/z1UcZHy4Ju6rpi9cLJx6e94ZnYQOxbQb+MD4M9bq3
+   +KI86O4KBLZ+Uw+MrXSNXAtcROdKNJeuPq4QHhEzx2IKUIOdIhRkTXibOk/tcyTJr/MS7AWirD9
+   5Xu8CtKXGHDEYSLLIAOqsDz4EZo5mVl47Pw=
+Received: from ip-0A7646F7 (localhost [127.0.0.1])
+	by ar30.toservers.com (Postfix) with SMTP id 5B24D3EA1AD15;
+	Tue, 17 Jan 2012 13:39:17 -0300 (ART)
+Received: from [184.72.233.23] by cancerbero 2.7.55 (ar30.toservers.com) is AUTH
+Subject: =?iso-8859-1?Q?RESERVA_PAX_ORELLANA_SELVA_X_2_-_#_26465?=
+Sender: "=?iso-8859-1?Q?Claraminte_Travel?=" <sender@sypred.com>
+From: "=?iso-8859-1?Q?Claraminte_Travel?=" <sender@sypred.com>
+Date: Tue, 17 Jan 2012 16:39:13 GMT
+To: "=?iso-8859-1?Q?operaciones5@claramintetravel=2Ecom?=" <operaciones5@claramintetravel.com>,
+	"=?iso-8859-1?Q?matiassag@seraviatours=2Etur=2Ear?=" <matiassag@seraviatours.tur.ar>
+Reply-To: operaciones5@claramintetravel.com
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Transfer-Encoding: Quoted-Printable
+MIME-Version: 1.0
+X-USER_IP: 200.68.102.89
+X-Mailer: JMail 4.2.0 Free Version by Dimac
+Content-Type: text/html
+Message-Id: <20120117163917.5B24D3EA1AD15@ar30.toservers.com>
+X-AV-Checked: ClamAV using ClamSMTP (punisher)
+
+
+<html=3E
+<head=3E
+<title=3EOuro | Powered by Sypred</title=3E
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-1=
+"=3E
+<link href=3D"http://www=2Eclaramintetravel=2Ecom/sistema=5Fnew/admin/xtras/=
+css=5Fsistema=2Ecss" rel=3D"stylesheet" type=3D"text/css"=3E
+
+<script type=3D"text/javascript"=3E
+function Open(){
+window=2Eopen('liquidacion=5Fmail=2Easp=3FwVarID=3D26465&wVarClientesID=3D41=
+4',1,'width=3D450,height=3D70,top=3D50,left=3D50,scrollbars=3D1');
+}
+</script=3E
+</head=3E
+<body=3E
+<table width=3D"650" border=3D"0" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"margin-bottom:3px; font-family:Tahoma; font-size:11px;bo=
+rder:1px solid #99ccff"=3E
+<tr=3E
+  <td height=3D"19" colspan=3D"2" bgcolor=3D"#cfe7ff"=3E<table width=3D"650"=
+ border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+margin-bottom:3px; font-family:Tahoma; font-size:11px;"=3E
+    <tr=3E
+      <td width=3D"241" align=3D"center" valign=3D"middle" bgcolor=3D"#cfe7f=
+f" style=3D"font-family:Tahoma; font-size:12px; padding:3px"=3E<img src=3D"h=
+ttp://www=2Eclaramintetravel=2Ecom/sistema=5Fnew/admin/images/logo=5Fcolor=2E=
+jpg" width=3D"149" height=3D"69" hspace=3D"3" vspace=3D"3"=3E</td=3E
+      <td width=3D"407" align=3D"center" bgcolor=3D"#cfe7ff"=3E<span style=3D=
+"font-family:Tahoma; font-size:11px; padding:3px"=3E<strong=3EClara Minte Tr=
+avel - Leg=2E 9162</strong=3E<br=3E
+        Sarmiento 930 1&ordm; Piso Ofic=2E &quot;B&quot; -  Capital Federal<=
+br=3E
+        <strong=3ETel=2E</strong=3E 5218-1501 -<strong=3E Mail:</strong=3E v=
+entas@claramintetravel=2Ecom <br=3E
+        <strong=3EWeb:</strong=3E www=2Eclaramintetravel=2Ecom</span=3E</td=3E=
+
+    </tr=3E
+  </table=3E</td=3E
+  </tr=3E
+<tr=3E
+  <td height=3D"19" bgcolor=3D"#cfe7ff" style=3D"font-size:12px"=3E&nbsp;<st=
+rong=3EFILE</strong=3E</td=3E
+  <td height=3D"19" bgcolor=3D"#cfe7ff"=3E<span style=3D"font-size:12px"=3E<=
+strong=3E#&nbsp;26465</strong=3E</span=3E</td=3E
+</tr=3E
+<tr=3E
+<td width=3D"91" height=3D"19" bgcolor=3D"#cfe7ff" style=3D"font-size:12px"=3E=
+&nbsp;<strong=3ECliente</strong=3E</td=3E
+<td width=3D"559" height=3D"19" bgcolor=3D"#cfe7ff" style=3D"font-size:12px"=
+=3E<b=3ESERAVIA TOURS</b=3E | <b=3ETel=2E</b=3E 0220-4852885 | <b=3EMail=2E<=
+/b=3E <a href=3D'mailto:seraviatours@speedy=2Ecom=2Ear' style=3D'font-size:1=
+1px;color:#000000;'=3Eseraviatours@speedy=2Ecom=2Ear</a=3E&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Att: MATIAS</td=3E
+</tr=3E
+<tr=3E
+<td height=3D"19" bgcolor=3D"#cfe7ff" style=3D"font-size:12px"=3E&nbsp;<stro=
+ng=3EReferencia</strong=3E</td=3E
+<td height=3D"19" bgcolor=3D"#cfe7ff" style=3D"font-size:12px"=3EORELLANA SE=
+LVA X 2 - <strong=3EADL(2)</strong=3E - <strong=3ECHD(0)</strong=3E - <stron=
+g=3EINF(0) </strong=3E</td=3E
+</tr=3E
+<tr=3E
+<td height=3D"19" bgcolor=3D"#cfe7ff" style=3D"font-size:13px"=3E&nbsp;<stro=
+ng=3EVendedor</strong=3E</td=3E
+<td height=3D"19" bgcolor=3D"#cfe7ff" style=3D"font-size:12px"=3ESILVIA MAIL=
+LO (Operativo)</td=3E
+</tr=3E
+
+</table=3E
+
+
+<table width=3D"650" border=3D"0" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"margin-top:8px;"=3E
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem" style=3D"border-right:none;font-size:1=
+4px;"=3E<strong=3EPAQUETE SAN RAFAEL - BUS</strong=3E</td=3E
+</tr=3E
+<tr=3E
+<td=3E
+
+
+
+
+<table width=3D"635" border=3D"0" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"margin-top:8px;"=3E
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem" style=3D"border-right:none;font-size:1=
+4px;"=3E<strong=3E- BUS</strong=3E</td=3E
+</tr=3E
+
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem" style=3D"border-right:none; padding:5p=
+x;font-size:11px"=3E
+(2) tkt - BUE/AFA/BUE - CLARA MINTE TRAVEL (SEMI CAMA) <b=3EComision</b=3E 1=
+2 %
+<br=3E Fecha Salida 11-02-2012 <b=3EHorario:</b=3E 19:00 <b=3EButaca</b=3E A=
+ CFM <b=3EObs</b=3E / MOR=D3N / AV=2E- VERGARA Y GAONA LADO VILLA TESEI<br=3E=
+ Fecha Regreso17-02-2012 <b=3EHorario:</b=3E 15:00 <b=3EButaca</b=3E A CFM <=
+b=3EObs</b=3E / A PARTIR DE LAS 15:00 HS=2E- / 
+</td=3E
+</tr=3E
+
+</table=3E
+
+<table width=3D"635" border=3D"0" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"margin-top:8px;"=3E
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem" style=3D"border-right:none;font-size:1=
+4px;"=3E<strong=3E- HOTELES</strong=3E</td=3E
+</tr=3E
+
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem" style=3D"border-right:none;padding:5px=
+;font-size:11px"=3E[AFA]&nbsp;DALI 2*&nbsp;-&nbsp;REGIMEN:&nbsp;DES&nbsp;-&n=
+bsp;5 NOCHES<br=3E 
+EN BASE 1 DBL - STD [12-02-12&nbsp;|&nbsp;17-02-12  - <b=3EComisi=F3n</b=3E =
+12 %]</td=3E
+</tr=3E
+
+</table=3E
+
+
+</td=3E
+</tr=3E
+</table=3E
+
+
+</table=3E
+
+
+<table width=3D"650" border=3D"0" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"margin-top:5px;"=3E
+<tr=3E
+<td width=3D"476" align=3D"right"=3E&nbsp;</td=3E
+<td width=3D"224" align=3D"right"=3E<table width=3D"219" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" style=3D"border:1px solid #99ccff;border-botto=
+m:none; border-right:none;"=3E
+<tr=3E
+<td height=3D"19" colspan=3D"2" align=3D"center" class=3D"td=5FMenu=5Fplain"=
+ style=3D"font-family:Tahoma; font-size:11px;border-right:1px solid #99ccff;=
+ background-color:#cfe7ff;border-bottom:1px solid #99ccff "=3E&nbsp;LIQUIDAC=
+ION EN PESOS</td=3E
+</tr=3E
+<tr=3E
+<td width=3D"132" height=3D"19" class=3D"td=5FItem"=3E&nbsp;Total  File</td=3E=
+
+<td width=3D"86" height=3D"19" align=3D"right" class=3D"td=5FItem" style=3D"=
+padding-right:3px;font-weight:bold;"=3E2346=2E67</td=3E
+</tr=3E
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem"=3E&nbsp;Comisi&oacute;n</td=3E
+<td height=3D"19" align=3D"right" class=3D"td=5FItem" style=3D"padding-right=
+:3px;font-weight:bold;"=3E281=2E6</td=3E
+</tr=3E
+
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem"=3E &nbsp;Impuestos</td=3E
+<td height=3D"19" align=3D"right" class=3D"td=5FItem" style=3D"padding-right=
+:3px;font-weight:bold;"=3E0</td=3E
+</tr=3E
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem"=3E&nbsp;Neto Abonar AGT</td=3E
+<td height=3D"19" align=3D"right" class=3D"td=5FItem" style=3D"padding-right=
+:3px;font-weight:bold;"=3E2065=2E07</td=3E
+</tr=3E
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem"=3E&nbsp;Total Pagos</td=3E
+<td height=3D"19" align=3D"right" class=3D"td=5FItem" style=3D"padding-right=
+:3px;font-weight:bold;"=3E0 </td=3E
+</tr=3E
+<tr=3E
+  <td height=3D"19" class=3D"td=5FItem"=3E&nbsp;Se&ntilde;a <strong=3E40 % <=
+/strong=3E</td=3E
+  <td height=3D"19" align=3D"right" class=3D"td=5FItem" style=3D"padding-rig=
+ht:3px;font-weight:bold;"=3E826=2E03</td=3E
+</tr=3E
+<tr=3E
+<td height=3D"19" class=3D"td=5FItem"=3E&nbsp;Saldo</td=3E
+<td height=3D"19" align=3D"right" class=3D"td=5FItem" style=3D"padding-right=
+:3px;font-weight:bold;"=3E2065=2E07</td=3E
+</tr=3E
+<tr=3E
+  <td height=3D"19" class=3D"td=5FItem"=3E&nbsp;Vencimiento</td=3E
+  <td height=3D"19" align=3D"right" class=3D"td=5FItem" style=3D"padding-rig=
+ht:3px;font-weight:bold;"=3E18-01-2012</td=3E</tr=3E
+<tr=3E
+  <td height=3D"19" class=3D"td=5FItem"=3E&nbsp;Vencimiento Pago Total</td=3E=
+
+  <td height=3D"19" align=3D"right" class=3D"td=5FItem" style=3D"padding-rig=
+ht:3px;font-weight:bold;"=3E22-01-2012</td=3E
+</tr=3E
+
+
+</table=3E</td=3E
+</tr=3E
+<tr=3E
+  <td height=3D"12" colspan=3D"2" align=3D"right" style=3D"text-transform:up=
+percase"=3E&nbsp;</td=3E
+  </tr=3E
+</table=3E
+
+
+
+<br=3E
+<table width=3D"650" border=3D"0" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"border:1px solid #99ccff; "=3E
+  <tr=3E
+    <td width=3D"196" height=3D"19" align=3D"center" style=3D"font-family:Ta=
+homa; font-size:11px;border-right:1px solid #99ccff; background-color:#cfe7f=
+f;border-bottom:1px solid #99ccff "=3E<strong=3EBanco</strong=3E</td=3E
+    <td width=3D"213" height=3D"19" align=3D"center" style=3D" font-family:T=
+ahoma; font-size:11px;border-right:1px solid #99ccff; background-color:#cfe7=
+ff;border-bottom:1px solid #99ccff"=3E<strong=3ECuenta en Pesos</strong=3E</=
+td=3E
+    <td width=3D"189" height=3D"19" align=3D"center" style=3D" font-family:T=
+ahoma; font-size:11px;background-color:#cfe7ff;border-bottom:1px solid #99cc=
+ff"=3E<strong=3EA Nombre de </strong=3E</td=3E
+  </tr=3E
+  <tr=3E
+    <td height=3D"19" style=3D"font-family:Tahoma; font-size:11px;border-rig=
+ht:1px solid #99ccff;border-bottom:1px solid #99ccff"=3E&nbsp;Franc&eacute;s=
+ &nbsp; - C/A $</td=3E
+    <td height=3D"19" style=3D"font-family:Tahoma; font-size:11px;border-rig=
+ht:1px solid #99ccff;border-bottom:1px solid #99ccff"=3E&nbsp;342-2330/1</td=
+=3E
+    <td rowspan=3D"3" align=3D"center" style=3D"font-family:Tahoma; font-siz=
+e:11px;"=3E<strong=3EClara Minte Weisser</strong=3E</td=3E
+  </tr=3E
+  <tr=3E
+    <td height=3D"19" style=3D"font-family:Tahoma; font-size:11px;border-rig=
+ht:1px solid #99ccff;border-bottom:1px solid #99ccff"=3E&nbsp;Ita&uacute; &n=
+bsp; - C/A $</td=3E
+    <td height=3D"19" style=3D"font-family:Tahoma; font-size:11px;border-rig=
+ht:1px solid #99ccff;border-bottom:1px solid #99ccff"=3E&nbsp;987-813011</td=
+=3E
+  </tr=3E
+  <tr=3E
+    <td height=3D"19" style=3D"font-family:Tahoma; font-size:11px;border-rig=
+ht:1px solid #99ccff;border-bottom:1px solid #99ccff"=3E&nbsp;Citibank &nbsp=
+; - C/A $</td=3E
+    <td height=3D"19" style=3D"font-family:Tahoma; font-size:11px;border-rig=
+ht:1px solid #99ccff;border-bottom:1px solid #99ccff"=3E&nbsp;5-159159-215</=
+td=3E
+  </tr=3E
+  <tr=3E
+    <td height=3D"19" style=3D"font-family:Tahoma; font-size:11px;border-rig=
+ht:1px solid #99ccff;"=3E&nbsp;Banco Provincia - C/A $</td=3E
+    <td height=3D"19" style=3D"font-family:Tahoma; font-size:11px;border-rig=
+ht:1px solid #99ccff;"=3E &nbsp;4019-502218/5</td=3E
+    <td align=3D"center" style=3D"font-family:Tahoma; font-size:11px;"=3E<st=
+rong=3EClara Minte Weisser y<BR=3E
+      Hernan Rosales</strong=3E</td=3E
+  </tr=3E
+</table=3E
+=A0
+
+<table width=3D"650" border=3D"0" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"margin-top:8px;"=3E
+<tr=3E
+<td style=3D"font-family:Tahoma; font-size:11px;padding:5px"=3E<div align=3D=
+"justify"=3EReserva Confirmada, no sera dada de baja la misma hasta recibir =
+un mail o fax de la Agencia informando la cancelaci=F3n por lo que deber=E1n=
+ asegurarse del recibido cancelatorio ya que generara gastos conforme a poli=
+tica aplicada=2E</div=3E</td=3E
+</tr=3E
+</table=3E
+<table width=3D"650" border=3D"0" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"margin-top:8px;"=3E
+
+<tr=3E
+<td style=3D"font-family:Tahoma; font-size:11px;padding:5px"=3ELos servicios=
+ de transporte solo ser=E1n emitidos una vez recibida una se=F1a=2E</td=3E
+</tr=3E
+  
+</table=3E
+
+</body=3E
+</html=3E
+

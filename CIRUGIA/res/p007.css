@@ -1,0 +1,14 @@
+#imCel1_01 {position: absolute; top: 0px; left: 10px; height: 353px; width: 231px; }
+#imObj1_01 img {border: none; height: 164px; width: 231px; vertical-align: bottom; }
+#imObj1_01 {padding: 0px; }
+#imCel1_01_Cont {text-align: center; height: 353px; overflow: hidden; }
+#imCel8_01 {position: absolute; top: 0px; left: 251px; height: 353px; width: 472px; background-image: url('../images/imcelbgp007_8_01.jpg'); background-repeat: no-repeat; }
+#imObj8_01 form {margin: 0; padding: 0; text-align: left; width: 360px; font: 15px Calibri; color: #000000; line-height: 19px; }
+#imObj8_01 .imInput {font: 15px Calibri; color: #000000; line-height: 19px; border: 1px solid #AAAAAA; background-color: #FFC080; }
+#imObj8_01 #imAgreePanel {border-top: 1px solid #EA7500; margin-top: 7px; }
+#imObj8_01 .imFormButton {font: 15px Calibri; color:#000000; border: 1px solid #000000; background-color:#EA7500; margin: 3px 0 7px 0; }
+#imObj8_01 {padding: 5px 5px 5px; }
+#imCel8_01_Cont {text-align: center; height: 353px; overflow: hidden; }
+#imCel8_01 form {margin: 0 auto; }
+#imPage {position: relative; height: 363px; }
+

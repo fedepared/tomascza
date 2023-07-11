@@ -1,0 +1,697 @@
+Return-path: <reservas@aguasdelparaiso.com.ar>
+Envelope-to: matias@seraviatours.tur.ar
+Delivery-date: Fri, 16 Mar 2012 18:21:05 -0300
+Received: from ar12.toservers.com ([200.62.55.112]:45721)
+	by ns3.lineadns.com with esmtp (Exim 4.69)
+	(envelope-from <reservas@aguasdelparaiso.com.ar>)
+	id 1S8ea5-0007YE-Ih
+	for matias@seraviatours.tur.ar; Fri, 16 Mar 2012 18:21:02 -0300
+Received: from ar12.toservers.com (unknown [192.168.2.234])
+	by ar12.toservers.com (Postfix) with ESMTP id 93D247D6E9CE0
+	for <matias@seraviatours.tur.ar>; Fri, 16 Mar 2012 18:20:53 -0300 (ART)
+Received: by ar12.toservers.com (Postfix, from userid 10303)
+	id 6E41D7D6E9CD1; Fri, 16 Mar 2012 18:20:53 -0300 (ART)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+ d=aguasdelparaiso.com.ar; i=@aguasdelparaiso.com.ar; q=dns/txt;
+ s=dkim_tw; t=1331932851; h=DomainKey-Signature : Date : To : From :
+ Subject : Message-ID : MIME-Version : Content-Type;
+ bh=DntgrYzvx36VJuQSdYpfkBMneKxSVDL27F4EyuOkGNU=; b=Et44r4o/ebSTqfHmhzllK8jlX4aazop++EEZ3VzyxlHcjqWzrtP6B003j6jnJ7ryZCk/jCDxojna5AKRsjYXuma1fqKaVXe7uSwnjnpo2A5B4pg8WQgRGhg3Ca2CWJ+q87O0Ab46nrN0MMC20C2AxWXXWsFgMF0iYmnMs+C0DSE=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=dkim_tw; 
+   d=aguasdelparaiso.com.ar; h=received:date:to:from:reply-to:subject:
+   message-id:x-priority:x-mailer:disposition-notification-to:mime-version:
+   content-transfer-encoding:content-type; b=TP/xZDqzyxMAOzrynOqc4gn7rkRchilBq
+   zU4RU3Pba7aYGwRAGDXAcGqAtEFql/G+tR3Byt+bnd71CvKGK0K7awmw8SN76iHFdJQotitKKxI
+   lrUlE4IpTM0wju4qYGIb7URbqmQEPusjzlMJmUGB2T02JwZOySSHuAaWvOX8kYg=
+Received: from www.clicktur.com (localhost [127.0.0.1])
+	by ar12.toservers.com (Postfix) with SMTP id 926867D6E9C8B
+	for <matias@seraviatours.tur.ar>; Fri, 16 Mar 2012 18:20:49 -0300 (ART)
+Received: from [75.101.154.44] by cancerbero 2.8.0 (ar12.toservers.com) is AUTH
+Date: Fri, 16 Mar 2012 19:20:48 -0200
+To: matias@seraviatours.tur.ar
+From: Aguas del Paraiso Srl <reservas@aguasdelparaiso.com.ar>
+Reply-To: reservas@aguasdelparaiso.com.ar
+Subject: =?iso-8859-1?Q?CONFIRMACION___ORME=D1O_JOSEFINA_/_ORME=D1O_GRACIELA_/_CAL?=
+ =?iso-8859-1?Q?VINO_JORJELINA_-_File_Nro._7001?=
+Message-ID: <565b1c82dfd5fe0d59888a478839a66a@www.clicktur.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+Disposition-Notification-To: <1@ar12.toservers.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+X-AV-Checked: ClamAV using ClamSMTP (punisher2)
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>ClickTur</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-885=
+9-1">
+<link href=3D"../xtras/css_prints.css" rel=3D"stylesheet" type=3D"text/cs=
+s" media=3D"print">
+<script type=3D"text/javascript" src=3D"../xtras/openers.js"></script>
+<script type=3D"text/javascript">
+function Refresh(){
+	opener.document.location =3D '../files/files_make.php?';
+	this.close();
+}
+function OpenPage(pPage,pW,pH){
+	window.open(pPage,null,'width=3D' + pW + ',height=3D' + pH + ',left=3D10=
+0,top=3D100,scrollbars=3D1');
+}
+</script>
+<style type=3D"text/css">
+a{text-decoration:none;color:#333333;font-size:10px;}
+a:hover{text-decoration:underline;color:#000000;}
+table{font-family:Verdana;font-size:10px;}
+.td_Menu_plain{background-color:#EEEEEE; color:#000000; font-weight:bold;=
+ border-bottom:1px solid #999999; border-right:1px solid #999999;cursor:d=
+efault;}
+.tbl_Panel{margin-bottom:3px; border:1px solid #999999}
+.td_Item{border-bottom:1px solid #cccccc;background-color:#ffffff;border-=
+right:1px solid #cccccc;cursor:default;}
+</style>
+</head>
+<body>
+
+=20
+					<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"tbl_Panel" style=3D"margin-bottom:3px;">
+		<tr>
+		<td align=3D"left" colspan=3D"2" style=3D"padding:5px;"><b>Buenas tarde=
+s, envio liquidaicon pax Orme=F1o x2 a San Clemente.
+<br>Saludos, Oscar</b></td>
+		</tr>
+		</table>
+		=09
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"tbl_Panel" style=3D"margin-bottom:3px;">
+<tr>
+<td height=3D"35" width=3D"750" colspan=3D"2" class=3D"td_Menu_plain" sty=
+le=3D"font-size:20px;border-right:none;text-align:left;">&nbsp;
+LIQUIDACI=D3N<b>FILE&nbsp;#7001</b>
+</td>
+</tr>
+<tr>
+<td width=3D"350" align=3D"center" valign=3D"middle" class=3D"td_Item" st=
+yle=3D"border-bottom:none;">			=09
+				<img src=3D"http://www.clicktur.com/clientes/aguas_paraiso/images/log=
+os/LOGO_2.gif" hspace=3D"5" vspace=3D"5" border=3D"0" align=3D"absmiddle"=
+>
+			=09
+</td>
+<td width=3D"400" align=3D"center" valign=3D"middle" style=3D"padding:3px=
+;background-color:#F8F8F8">
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"cen=
+ter" style=3D"padding-left:2px;padding-right:2px;">
+		<tr>
+		<td height=3D"6"></td>
+		</tr>
+				<tr>
+		<td height=3D"14" >
+						Aguas del Paraiso Srl		=09
+							 - 								Leg 10192					</td>
+		</tr>
+						<tr>
+		<td height=3D"14">
+							<b>Direccion:</b>
+						Lavalle 384		=09
+							 -								Capital					</td>
+		</tr>
+						<tr>
+		<td height=3D"14">
+							<b>TE.:</b>
+						4314-1625/8712- o 4312-8474 o 5236-5534</td>
+		</tr>
+								<tr>
+		<td height=3D"14">
+							<b>Web:</b>
+						aguasdelparaiso.com.ar</td>
+		</tr>
+						<tr>
+		<td height=3D"14">
+							<b>Mail:</b>
+						info@aguasdelparaiso.com.ar</td>
+		</tr>
+				=09
+		<tr>
+		<td height=3D"6"></td>
+		</tr>
+		</table>
+			</td>
+</tr>
+</table>
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"tbl_Panel" style=3D"margin-bottom:3px;">
+<tr>
+<td height=3D"6"></td>
+</tr>
+<tr>
+<td><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%=
+">
+<tr>
+<td width=3D"15%" height=3D"19" valign=3D"middle">&nbsp;<strong>Cliente</=
+strong></td>
+<td width=3D"85%" valign=3D"middle">
+<a href=3D"javascript:OpenPage('../clientes/clientes_show.php?wVarID=3D13=
+83','750','450');">SERAVIA TOURS - Comisi=F3n (12 %)</a>
+ - Reservo: MARIAS</td>
+</tr>
+<tr>
+  <td height=3D"19" valign=3D"middle">&nbsp;<strong>Pax</strong></td>
+  <td valign=3D"middle">ORME=D1O JOSEFINA / ORME=D1O GRACIELA / CALVINO J=
+ORJELINA&nbsp;-&nbsp;ADL&nbsp;(3)&nbsp;&nbsp;CHD&nbsp;(0)&nbsp;&nbsp;INF&=
+nbsp;(0)</td>
+</tr>
+<tr>
+<td height=3D"19" valign=3D"middle">&nbsp;<strong>Vendedor</strong></td>
+<td valign=3D"middle">Oscar Ariel - <strong>Detalle</strong>: FEDERACION =
+SEMANA SANTA CHARTER</td>
+</tr>
+
+
+
+
+
+<tr>
+<td height=3D"19" valign=3D"middle"><strong>&nbsp;Status File</strong></t=
+d>
+<td valign=3D"middle">OK - <strong>VENCIMIENTO FILE</strong> 20-03-2012	<=
+/td>
+</tr>
+
+<tr>
+  <td height=3D"19" valign=3D"middle">&nbsp;<strong>Fechas</strong></td>
+  <td valign=3D"middle"><b>IN:</b> 05-04-2012 - <strong>OUT:</strong> 08-=
+04-2012 - <b>Alta:</b> 16-03-2012</td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"6"></td>
+</tr>
+</table>
+
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"tbl_Panel">
+<tr>
+<td width=3D"750" height=3D"20" class=3D"td_Menu_plain" style=3D"border-r=
+ight:none;">&nbsp;BUS</td>
+</tr>
+<tr>
+<td width=3D"750">
+			<table width=3D"730" border=3D"0" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"tbl_Panel" style=3D"margin-top:3px;">
+	<tr>
+	<td width=3D"28" height=3D"23" align=3D"center" class=3D"td_Item" style=3D=
+"font-size:12px;font-weight:bold;border-bottom:none;text-align:center;">R=
+Q</td>
+	<td width=3D"56" height=3D"23" align=3D"center" class=3D"td_Item" style=3D=
+"font-size:12px;font-weight:bold;border-bottom:none;text-align:center;">3=
+ TKT</td>
+	<td width=3D"520" height=3D"23" align=3D"left" class=3D"td_Item" style=3D=
+"border-bottom:none;text-align:left; padding:2px"><b>BUS IDA Y VUELTA A F=
+EDERACI=D3N +TRF + CITY+COORDINADOR (Bus  Charter)</b><br>
+	 <b>SERVICIO</b> Semicama	 		<br><b>SALIDA:</b> CAPITAL Corrientes y Mai=
+p=FA - ( Confiter=EDa la Casona ) 					 </td>
+	<td width=3D"124" height=3D"23" class=3D"td_Item" style=3D"border-right:=
+none;border-bottom:none;">
+		<table width=3D"124" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+		<tr>
+		<td width=3D"62" height=3D"20">&nbsp;<b>SALIDA</b></td>
+		<td width=3D"62" height=3D"20">05-04-12</td>
+		</tr>
+				<tr>
+		<td width=3D"62" height=3D"20" class=3D"td_Item" style=3D"border-right:=
+none;">&nbsp;<b>HORA</b></td>
+		<td width=3D"62" height=3D"20" class=3D"td_Item" style=3D"border-right:=
+none;">01:00</td>
+		</tr>
+						<tr>
+		<td width=3D"62" height=3D"20">&nbsp;<b>REGRESO</b></td>
+		<td width=3D"62" height=3D"20">08-04-12</td>
+		</tr>
+						<tr>
+		<td width=3D"62" height=3D"20">&nbsp;<b>HORA</b></td>
+		<td width=3D"62" height=3D"20">15:00</td>
+		</tr>
+				</table>
+	</td>
+		</tr>
+	</table>
+		</td>
+</tr>
+</table>
+
+=20
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"tbl_Panel">
+<tr>
+<td width=3D"750" height=3D"20" class=3D"td_Menu_plain" style=3D"border-r=
+ight:none;">&nbsp;HOTEL</td>
+</tr>
+<tr>
+<td width=3D"750">
+			<table width=3D"730" border=3D"0" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"tbl_Panel" style=3D"margin-top:3px;">
+	<tr>
+	<td width=3D"28" height=3D"23" align=3D"center" class=3D"td_Item" style=3D=
+"font-size:12px;font-weight:bold;border-bottom:none;text-align:center;">O=
+K</td>
+	<td width=3D"56" align=3D"center" class=3D"td_Item" style=3D"font-size:1=
+2px;font-weight:bold;border-bottom:none;text-align:center;">3 NTS</td>
+	<td width=3D"56" class=3D"td_Item" align=3D"center" style=3D"font-size:1=
+2px;font-weight:bold;border-bottom:none;text-align:center;">1 TPL</td>
+	<td width=3D"464" align=3D"left" class=3D"td_Item" style=3D"border-botto=
+m:none;text-align:left; padding:2px">
+	<b>[FDR] TERMAL HOSTAL</b>
+		<br>
+		<b>HAB</b>&nbsp;Std&nbsp;-&nbsp;<b>REG</b>&nbsp;DES				=09
+	</td>
+	<td width=3D"124" class=3D"td_Item" style=3D"border:none">
+		<table width=3D"124" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+		<tr>
+		<td width=3D"62" height=3D"19">&nbsp;<b>IN</b></td>
+		<td width=3D"62" height=3D"19">05-03-12</td>
+		</tr>
+		<tr>
+		<td width=3D"62" height=3D"19">&nbsp;<b>OUT</b></td>
+		<td width=3D"62" height=3D"19">08-03-12</td>
+		</tr>
+		</table>
+	</td>
+		</tr>
+	</table>
+
+				</td>
+</tr>
+</table>
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"tbl_Panel">
+<tr>
+<td width=3D"750" height=3D"20" class=3D"td_Menu_plain" style=3D"border-r=
+ight:none;">&nbsp;SERVICIO</td>
+</tr>
+<tr>
+<td width=3D"750">
+			<table width=3D"730" border=3D"0" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"tbl_Panel" style=3D"margin-top:3px;">
+	<tr>
+	<td width=3D"28" height=3D"23" align=3D"center" class=3D"td_Item" style=3D=
+"font-size:12px;font-weight:bold;border-bottom:none;text-align:center;">O=
+K</td>
+	<td width=3D"56" height=3D"23" align=3D"center" class=3D"td_Item" style=3D=
+"font-size:12px;font-weight:bold;border-bottom:none;text-align:center;">9=
+&nbsp;TKT</td>
+	<td width=3D"520" height=3D"23" align=3D"left" class=3D"td_Item" style=3D=
+"border-bottom:none;text-align:left; padding:2px"><b>[FDR] 1 ENTRADA A TE=
+RMAS DE FEDERACI=F3N POR CADA NOCHE DE ALOJAMIENTO</b>
+				</td>
+	<td width=3D"124" class=3D"td_Item" style=3D"border-right:none;border-bo=
+ttom:none;">
+		<table width=3D"124" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+				<tr>
+		<td width=3D"62" height=3D"20">&nbsp;<b>IN</b></td>
+		<td width=3D"62" height=3D"20">05-03-12</td>
+		</tr>
+						<tr>
+		<td width=3D"62" height=3D"20">&nbsp;<b>OUT</b></td>
+		<td width=3D"62" height=3D"20">08-04-12</td>
+		</tr>
+				</table>
+	</td>
+		</tr>
+		</table>
+			<table width=3D"730" border=3D"0" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"tbl_Panel" style=3D"margin-top:3px;">
+	<tr>
+	<td width=3D"28" height=3D"23" align=3D"center" class=3D"td_Item" style=3D=
+"font-size:12px;font-weight:bold;border-bottom:none;text-align:center;">O=
+K</td>
+	<td width=3D"56" height=3D"23" align=3D"center" class=3D"td_Item" style=3D=
+"font-size:12px;font-weight:bold;border-bottom:none;text-align:center;">9=
+&nbsp;TKT</td>
+	<td width=3D"520" height=3D"23" align=3D"left" class=3D"td_Item" style=3D=
+"border-bottom:none;text-align:left; padding:2px"><b>[FDR] CENAS EN RESTA=
+UTANT SEGUN HOTEL</b>
+				</td>
+	<td width=3D"124" class=3D"td_Item" style=3D"border-right:none;border-bo=
+ttom:none;">
+		<table width=3D"124" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+				<tr>
+		<td width=3D"62" height=3D"20">&nbsp;<b>IN</b></td>
+		<td width=3D"62" height=3D"20">05-03-12</td>
+		</tr>
+						<tr>
+		<td width=3D"62" height=3D"20">&nbsp;<b>OUT</b></td>
+		<td width=3D"62" height=3D"20">08-04-12</td>
+		</tr>
+				</table>
+	</td>
+		</tr>
+		</table>
+		</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"tbl_Panel">
+<tr>
+<td height=3D"20" class=3D"td_Menu_plain" style=3D"border-right:none;">&n=
+bsp;ADICIONALESO</td>
+</tr>
+<tr>
+<td>
+		=09
+	<table width=3D"730" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"tbl_Panel" style=3D"margin-top:3px;">
+	<tr>
+	<td width=3D"28" height=3D"23" align=3D"center" class=3D"td_Item" style=3D=
+"font-size:12px;font-weight:bold;border-bottom:none;">OK</td>
+	<td width=3D"576" height=3D"23" class=3D"td_Item" style=3D"font-size:12p=
+x;font-weight:bold;border-bottom:none;padding-left:3px;">1.2% GASTOS BANC=
+ARIOS SUMADOS A LIQUIDACION $43.17</td>
+	<td width=3D"124" class=3D"td_Item" style=3D"border-right:none;border-bo=
+ttom:none;">
+		<table width=3D"124" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+				<tr>
+		<td width=3D"62" height=3D"20">&nbsp;<b>FECHA</b></td>
+		<td width=3D"62" height=3D"20">05-04-12</td>
+		</tr>
+				</table>
+	</td>
+		</tr>
+	</table>
+		</td>
+</tr>
+</table>
+
+<br>
+
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0">
+<tr>
+<td width=3D"519" style=3D"text-align:right;">&nbsp;</td>
+<td width=3D"231" style=3D"text-align:right;">
+	<table width=3D"230" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"tbl_Panel">
+		<tr>
+	<td height=3D"19" class=3D"td_Menu_plain" style=3D"border-right:none;tex=
+t-align:left;">&nbsp;FILE EN  PESOS</td>
+	</tr>
+		<tr>
+	<td valign=3D"top">
+		<table width=3D"219" border=3D"0" align=3D"right" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"tbl_Panel" style=3D"margin:5px;">
+								<tr>
+			<td width=3D"132" height=3D"19" class=3D"td_Item" style=3D"background-=
+color:#EEEEEE;text-align:left;">&nbsp;Total Bruto </td>
+			<td width=3D"86" height=3D"19" align=3D"right" class=3D"td_Item" style=
+=3D"padding-right:3px;font-weight:bold;border-right:none;background-color=
+:#EEEEEE;">3602.85</td>
+			</tr>
+													<tr>
+			<td height=3D"19" class=3D"td_Item" style=3D"background-color:#EEEEEE;=
+text-align:left;">&nbsp;Comisi=F3n</td>
+			<td height=3D"19" align=3D"right" class=3D"td_Item" style=3D"padding-r=
+ight:3px;font-weight:bold;border-right:none;background-color:#EEEEEE;">42=
+7.02</td>
+			</tr>
+									<tr>
+		<td height=3D"19" class=3D"td_Item" style=3D"background-color:#EEEEEE;t=
+ext-align:left;">&nbsp;Tasas + Imp </td>
+		<td height=3D"19" align=3D"right" class=3D"td_Item" style=3D"padding-ri=
+ght:3px;font-weight:bold;border-right:none;background-color:#EEEEEE;">0</=
+td>
+		</tr>
+															<tr>
+				<td height=3D"19" class=3D"td_Item" style=3D"background-color:#EEEEEE=
+;text-align:left;">&nbsp;IVA</td>
+				<td height=3D"19" align=3D"right" class=3D"td_Item" style=3D"padding-=
+right:3px;font-weight:bold;border-right:none;background-color:#EEEEEE;">4=
+65.66</td>
+				</tr>
+												=09
+				<tr>
+		<td height=3D"19" class=3D"td_Item" style=3D"background-color:#EEEEEE;t=
+ext-align:left;">&nbsp;<b>TOTAL A PAGAR</b> </td>
+		<td height=3D"19" align=3D"right" class=3D"td_Item" style=3D"padding-ri=
+ght:3px;font-weight:bold;border-right:none;background-color:#EEEEEE;">&nb=
+sp;3641.49</td>
+		</tr>
+						<tr>
+		<td height=3D"19" class=3D"td_Item" style=3D"background-color:#EEEEEE;t=
+ext-align:left;">&nbsp;Cobros Realizados</td>
+		<td height=3D"19" align=3D"right" class=3D"td_Item" style=3D"padding-ri=
+ght:3px;font-weight:bold;border-right:none;background-color:#EEEEEE;">&nb=
+sp;0</td>
+		</tr>
+								<tr>
+		<td height=3D"19" class=3D"td_Item" style=3D"background-color:#EEEEEE;t=
+ext-align:left;">&nbsp;<b>SALDO</b></td>
+		<td height=3D"19" align=3D"right" class=3D"td_Item" style=3D"padding-ri=
+ght:3px;font-weight:bold;border-right:none;background-color:#EEEEEE;">&nb=
+sp;3641.49</td>
+		</tr>
+		       =20
+       		</table>
+	</td>
+	</tr>
+						<tr>
+		<td height=3D"19" align=3D"center" class=3D"td_Menu_plain" style=3D"bor=
+der-right:none; border-bottom:none;text-align:left; border-top:1px solid =
+#999999; padding-left:5px">VENCIMIENTO SE=D1A 20-03-2012</td>
+		</tr>
+								<tr>
+		<td height=3D"19" align=3D"center" class=3D"td_Menu_plain" style=3D"bor=
+der-right:none; border-bottom:none;text-align:left; border-top:1px solid =
+#999999; padding-left:5px">VENCIMIENTO SALDO 29-03-2012</td>
+		</tr>
+			=09
+			<tr>
+	<td height=3D"19" align=3D"center" class=3D"td_Menu_plain" style=3D"bord=
+er-right:none; border-bottom:none;text-align:left; border-top:1px solid #=
+999999; padding-left:5px">
+	Se=F1a=20
+			<strong>(30 %)</strong>&nbsp;1092.45			=20
+	PESOS</td>
+	</tr>
+			</table>
+</td>
+</tr>
+<tr>
+<td colspan=3D"2" align=3D"left" style=3D"">
+	<table width=3D"750" border=3D"0" align=3D"left" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"margin-bottom:3px; border:1px solid #999999">
+	<tr>
+	<td height=3D"40" align=3D"left" style=3D"padding:5px;">TARIFA AL PUBLIC=
+O $1363 POR PAX AL 12% </td>
+	</tr>
+	</table>
+</td>
+  </tr>
+</table>
+=09
+		<br>
+	<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"tbl_Panel">
+	<tr>
+	<td width=3D"107" height=3D"19" class=3D"td_Item">&nbsp;Gravado 10.5 % <=
+/td>
+	<td width=3D"80" height=3D"19" class=3D"td_Menu_plain">&nbsp;1134.84</td=
+>
+	<td width=3D"107" height=3D"19" class=3D"td_Item">&nbsp;IVA 10.5 % </td>
+	<td width=3D"80" height=3D"19" class=3D"td_Menu_plain">&nbsp;119.16</td>
+	<td width=3D"107" height=3D"19" class=3D"td_Item">&nbsp;Gravado 21 % </t=
+d>
+	<td width=3D"80" height=3D"19" class=3D"td_Menu_plain">&nbsp;1649.91</td=
+>
+	<td width=3D"107" height=3D"19" class=3D"td_Item">&nbsp;IVA 21 % </td>
+	<td width=3D"80" height=3D"19" class=3D"td_Menu_plain" style=3D"border-r=
+ight:none;">&nbsp;346.5</td>
+	</tr>
+	<tr>
+	<td height=3D"19" class=3D"td_Item" style=3D"border-bottom:none;">&nbsp;=
+No Gravado</td>
+	<td height=3D"19" class=3D"td_Menu_plain" style=3D"border-bottom:none;">=
+&nbsp;0</td>
+	<td height=3D"19" class=3D"td_Item" style=3D"border-bottom:none;">&nbsp;=
+Exento</td>
+	<td height=3D"19" class=3D"td_Menu_plain" style=3D"border-bottom:none;">=
+&nbsp;391.08</td>
+	<td height=3D"19" class=3D"td_Item" style=3D"border-bottom:none;">&nbsp;=
+Tasas + IMP</td>
+	<td height=3D"19" class=3D"td_Menu_plain" style=3D"border-bottom:none;">=
+&nbsp;0</td>
+	<td height=3D"19" bgcolor=3D"#EEEEEE" class=3D"td_Item" style=3D"border-=
+bottom:none; background-color:#EEEEEE">&nbsp;</td>
+	<td height=3D"19" class=3D"td_Menu_plain" style=3D"border:none;"></td>
+	</tr>
+	</table>
+=09
+<br>
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0">
+<tr>
+<td style=3D"padding:2px;"><table width=3D"750" border=3D"0" align=3D"cen=
+ter" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Tahoma; fon=
+t-size:11px;border:1px solid #CCCCCC">
+  <tr>
+    <td height=3D"20" align=3D"center" bgcolor=3D"#E8E8E8" style=3D"borde=
+r-bottom:1px solid #CCCCCC"><strong>FORMAS DE PAGO Y GASTOS</strong></td>
+  </tr>
+  <tr>
+    <td style=3D"padding:5px;text-align:justify;">
+=09
+<strong>Efectivo:</strong> <br>
+En el momento de efectuar la reserva se debe abonar el 30% del pago total=
+.=20
+en ese momento se descuenta el 12% de la comisi=F3n.
+<br>
+El saldo, deber=E1 ser abonado 48 hs antes de la salida.=20
+Los mismos se podr=E1n efectuar mediante deposito bancario en cualquier s=
+ucursal del pa=EDs de los siguientes bancos.
+ <br>
+ <br>
+ CONSULTAR  CUENTAS PARA REALIZAR LOS  DEP=D2SITOS
+
+RESERVAS  CONFIRMADAS Y CANCELADAS $ 20 DE GASTOS
+
+IMPORTANTE
+RESERVAS CONFIRMADAS CON DOCUMENTACI=D2N ENTREGADA NO SE  REALIZAN CANCEL=
+ACIONES  SIN LA  DOCUMENTACI=D2N ORIGINAL SIN EXCEPCI=D2N ALGUNA
+
+GASTOS  SUJETOS  A LAS  CONDICIONES  GENERALES
+PAQUETES  TURISTICOS COMISIONABLES 12 %=20
+HOTELER=CDA  Y OPCIONALES COMISIONABLES 10 %
+                                                              =20
+EXCEPTO ESPECIFICACI=D3N
+
+NO SE ACEPTAN CHEQUES SIN EXCEPCI=D3N	</td>
+  </tr>
+  <tr>
+    <td style=3D"padding:5px">
+=09
+	<table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"border-bottom:none; border-right:none;margin-bott=
+om:3px;">
+		<tr>
+		<td height=3D"30" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC; border=
+-top:1px solid #CCCCCC"><strong>Aguas del Paraiso SRL - CUIT:  30 - 70855=
+141 - 0<br>
+DEPOSITOS ADICIONAR 1.2 % DE GASTOS BANCARIOS </strong></td>
+		</tr>
+	</table>
+	<table width=3D"700" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"border-bottom:none; border-right:none;margin-bott=
+om:3px;">
+		<tr>
+		<td height=3D"20" colspan=3D"4" align=3D"center" style=3D"border-left:1=
+px solid #CCCCCC;border-bottom:1px solid #CCCCCC;border-right:1px solid #=
+CCCCCC; border-top:1px solid #CCCCCC"><strong>Depositos en Pesos </strong=
+></td>
+		</tr>
+		<tr>
+		<td class=3D"td_Menu" align=3D"center" width=3D"188" height=3D"18" bgco=
+lor=3D"#E8E8E8" style=3D"border-left:1px solid #CCCCCC;border-bottom:1px =
+solid #CCCCCC;border-right:1px solid #CCCCCC; border-top:1px solid #CCCCC=
+C"><strong>BANCO</strong></td>
+		<td class=3D"td_Menu" align=3D"center" width=3D"136" height=3D"18" bgco=
+lor=3D"#E8E8E8" style=3D"border-left:1px solid #CCCCCC;border-bottom:1px =
+solid #CCCCCC;border-right:1px solid #CCCCCC; border-top:1px solid #CCCCC=
+C"><strong>TIPO</strong></td>
+		<td class=3D"td_Menu" align=3D"center" width=3D"164" height=3D"18" bgco=
+lor=3D"#E8E8E8" style=3D"border-left:1px solid #CCCCCC;border-bottom:1px =
+solid #CCCCCC;border-right:1px solid #CCCCCC; border-top:1px solid #CCCCC=
+C"><strong>NUM</strong></td>
+		<td class=3D"td_Menu" align=3D"center" width=3D"212" height=3D"18" bgco=
+lor=3D"#E8E8E8" style=3D"border-left:1px solid #CCCCCC;border-bottom:1px =
+solid #CCCCCC;border-right:1px solid #CCCCCC; border-top:1px solid #CCCCC=
+C"><strong>CBU</strong></td>
+		</tr>
+		<tr>
+		<td height=3D"20" style=3D"border-left:1px solid #CCCCCC;border-bottom:=
+1px solid #CCCCCC;border-right:1px solid #CCCCCC"> BANCO RIO </td>
+		<td height=3D"20" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC">Cta.Ct=
+e. $</td>
+		<td height=3D"20" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC">Suc 08=
+7 - 13779/7</td>
+		<td height=3D"20" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC">072008=
+7820000001377972</td>
+		</tr>
+		<tr>
+		<td height=3D"20" style=3D"border-left:1px solid #CCCCCC;border-bottom:=
+1px solid #CCCCCC;border-right:1px solid #CCCCCC"> BANCO FRANCES</td>
+		<td height=3D"20" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC">Cta.Ct=
+e. $</td>
+		<td height=3D"20" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC">Suc 14=
+1 - 46724/9</td>
+		<td height=3D"20" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC">017014=
+1420000004672494</td>
+		</tr>
+		<tr>
+		<td height=3D"20" style=3D"border-left:1px solid #CCCCCC;border-bottom:=
+1px solid #CCCCCC;border-right:1px solid #CCCCCC"> BANCO CITIBANK </td>
+		<td height=3D"20" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC">Cta.Ct=
+e. $</td>
+		<td height=3D"20" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC">0-1988=
+30518</td>
+		<td height=3D"20" align=3D"center" style=3D"border-left:1px solid #CCCC=
+CC;border-bottom:1px solid #CCCCCC;border-right:1px solid #CCCCCC">016777=
+7100001988305183</td>
+		</tr>
+	  </table>
+		<br>
+	</td>
+  </tr>
+</table></td>
+</tr>
+</table>
+<br>
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"margin-bottom:3px; border:1px solid #999999">
+<tr>
+<td height=3D"40" align=3D"center" style=3D"padding:10px;">TENER EN  CUEN=
+TA LOS  VENCIMIENTOS DE LAS RESERVAS LAS MISMAS  SE  DARAN DE  BAJA  AUTO=
+M=C1TICAMENTE -LOS  BUSES  NO SE  EMITEN  SIN SE=D1A - LAS BUTACAS TUR=CD=
+STICAS NO ADMITEN CAMBIO DE FECHA, NI DEVOLUCI=D3N,  DESPUES DE EMITIDO.<=
+/td>
+</tr>
+</table>
+<table width=3D"750" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"margin-top:5px;" class=3D"td_print">
+<tr>
+<td height=3D"20" style=3D"border-bottom:1px dashed #666666;">&nbsp;</td>
+</tr>
+<tr>
+<td height=3D"30" width=3D"750" style=3D"text-align:right;"><a href=3D"ht=
+tp://www.clicktur.com.ar" target=3D"_blank"><img src=3D"http://www.clickt=
+ur.com/clicktur/admin/images/logo_clicktur.gif" alt=3D"powered by Clicktu=
+r" width=3D"82" height=3D"19" border=3D"0" align=3D"absmiddle"></a></td>
+</tr>
+</table>
+</body>
+</html>
+
+

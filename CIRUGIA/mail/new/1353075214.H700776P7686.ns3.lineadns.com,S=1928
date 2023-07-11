@@ -1,0 +1,48 @@
+Return-path: <>
+Envelope-to: seraviat@ns3.lineadns.com
+Delivery-date: Fri, 16 Nov 2012 11:13:34 -0300
+Received: from mailnull by ns3.lineadns.com with local (Exim 4.80)
+	id 1TZMfk-0001zm-JS
+	for seraviat@ns3.lineadns.com; Fri, 16 Nov 2012 11:13:32 -0300
+X-Failed-Recipients: info@romarconstrucciones.com.ar
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns3.lineadns.com>
+To: seraviat@ns3.lineadns.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TZMfk-0001zm-JS@ns3.lineadns.com>
+Date: Fri, 16 Nov 2012 11:13:32 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@romarconstrucciones.com.ar
+    SMTP error from remote mail server after RCPT TO:<info@romarconstrucciones.com.ar>:
+    host romarconstrucciones.com.ar [93.174.4.8]:
+    553 sorry, that domain isn't in my list of allowed rcpthosts; no valid cert for gatewaying (#5.7.1)
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <seraviat@ns3.lineadns.com>
+Received: from seraviat by ns3.lineadns.com with local (Exim 4.80)
+	(envelope-from <seraviat@ns3.lineadns.com>)
+	id 1TZMfc-0001y4-85
+	for info@romarconstrucciones.com.ar; Fri, 16 Nov 2012 11:13:24 -0300
+To: info@romarconstrucciones.com.ar
+Subject: Consulta Pasajes Aéreos
+From: silvy_mery@hotmail.com 
+X-Mailer: PHP/5.2.17 
+Mime-Version: 1.0 
+Content-Type: text/plain
+Message-Id: <E1TZMfc-0001y4-85@ns3.lineadns.com>
+Sender:  <seraviat@ns3.lineadns.com>
+Date: Fri, 16 Nov 2012 11:13:24 -0300
+
+Este mensaje fue enviado por  
+Su e-mail es: silvy_mery@hotmail.com 
+Ciudad: paso del rey 
+Provincia: buenos aires 
+Numero de Tel?fono: 1164171465 
+Mensaje: quisiera saber cuanto me sale el pasaje aereo con el paquete de iguazu cataratas 
+Enviado el 16/11/2012

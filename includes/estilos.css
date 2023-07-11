@@ -1,0 +1,29 @@
+body{
+    font-family: 'Bitstream Vera Sans', 'helvetica', 'arial', 'verdana';
+    font-size: 11px;
+}
+
+td,th{
+    font-family: 'Bitstream Vera Sans', 'helvetica', 'arial', 'verdana';
+    font-size: 11px;
+    padding: 4;
+}
+
+thead{
+    text-align: center;
+    font-weight: bold;
+    background: black;
+    color: white;
+}
+
+tr.confondo{
+    background: lightgray;
+}
+
+select{
+    font-size: 11px;
+}
+
+input{
+    font-size: 11px;
+}

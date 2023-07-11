@@ -1,0 +1,15 @@
+#imCel6_00 {position: absolute; top: 0px; left: 10px; height: 350px; width: 834px; }
+#imSSCont_0 {border: 6px solid #C04000; width: 538px; margin: auto; }
+#imSSBackg_0 {width: 538px; height: 338px; background-color: #000000; overflow: hidden; position: relative; }
+#imSSImages_0 {position: relative; top: 0; left: 0; width: 538px; height: 338px; background-color: #000000; margin: 0; padding: 0; }
+#imSSImage_0 {position: absolute; top: 0px; left: 44px; z-index: 500; }
+#imSSImage_0_back {position: absolute; top: 0px; left: 44px; z-index: 499; }
+#imSSDescr_0 {position: absolute; left: 0; width: 100%; overflow: hidden; z-index: 501; }
+#imSSDescr_0_content {position: relative; width: 100%; }
+#imSSDescr_0_bg {position: absolute; top: 0; left: 0; width: 100%; background-color: #000; opacity: 0.6; filter: alpha(opacity=60); }
+#imSSDescr_0_text {font: 11px Tahoma; color: #FFFFFF; position: absolute; top: 0; left: 0; padding: 5px 2%; margin: 0; text-align: center; width: 96%; }
+img.imssBtn {cursor: pointer; }
+#imObj6_00 {padding: 0px; }
+#imCel6_00_Cont {text-align: center; height: 350px; overflow: hidden; }
+#imPage {position: relative; height: 360px; }
+

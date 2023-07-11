@@ -1,0 +1,117 @@
+Return-path: <operaciones@aguasdelparaiso.com.ar>
+Envelope-to: marioag@seraviatours.tur.ar
+Delivery-date: Wed, 14 Aug 2013 18:00:45 -0300
+Received: from ar12.toservers.com ([200.62.55.112]:55746)
+	by ns3.lineadns.com with esmtp (Exim 4.80.1)
+	(envelope-from <operaciones@aguasdelparaiso.com.ar>)
+	id 1V9iBO-0001EZ-BF
+	for marioag@seraviatours.tur.ar; Wed, 14 Aug 2013 18:00:44 -0300
+Received: from ar12.toservers.com (punisher [192.168.2.230])
+	by ar12.toservers.com (Postfix) with ESMTP id 68856E3624DF6
+	for <marioag@seraviatours.tur.ar>; Wed, 14 Aug 2013 18:12:34 -0300 (ART)
+Received: by ar12.toservers.com (Postfix, from userid 10303)
+	id 5B551E3624DE6; Wed, 14 Aug 2013 18:12:34 -0300 (ART)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+ d=aguasdelparaiso.com.ar; i=@aguasdelparaiso.com.ar; q=dns/txt;
+ s=dkim_tw; t=1376514754; h=DomainKey-Signature : Message-ID : From : To
+ : Subject : Date : MIME-Version : Content-Type;
+ bh=fKVVQzBz5jv93PUVI2K5/Q8ahtWF2Ny8xV8eghCnsHI=; b=DyzpGsGiWhlH7rNy9WsdzHWf0MCAJ6N2/siTw11kIzHCSGOZJAbe6fpVN9ziO0ev2ZHdxDGCmPdAsMozAEJbHfWKCrTrDcFT4xg5IUqwX0dcallk3ar9YalR8SkkfJiSUZnL74GdkIKHjYucEA3jNQy/qMSYs3FHGh366LMh9Eg=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=dkim_tw; 
+   d=aguasdelparaiso.com.ar; h=received:message-id:reply-to:from:to:subject:
+   date:mime-version:content-type:x-priority:x-msmail-priority:x-mailer:
+   x-mimeole; b=QFuhAGnSbU2uAme40fR8LT2rh6LV1ey8c1jmWoRyovz4WbuVzRKZ+fbU0C45PP
+   9hic+2AjK+QkdIOsok74QkNkECiLTgXum8PpjLMvMWVou/ipuJNc3BM87REMI0a8hzzcRjnBruU
+   3zBDW5qpaOVWLeb0GP/J94DXNZfP65Ktf8=
+Received: from Marcelo (localhost [127.0.0.1])
+	by ar12.toservers.com (Postfix) with SMTP id D1F1EE3624DAE
+	for <marioag@seraviatours.tur.ar>; Wed, 14 Aug 2013 18:12:33 -0300 (ART)
+Received: from [190.2.7.41] by cancerbero 2.8.0 (ar12.toservers.com) is AUTH
+Message-ID: <92BD0EB89F8B41E1922E284B0E373D91@Marcelo>
+Reply-To: =?iso-8859-1?Q?Marcelo-Aguas_del_Para=EDso?= <operaciones@aguasdelparaiso.com.ar>
+From: =?iso-8859-1?Q?Marcelo-Aguas_del_Para=EDso?= <operaciones@aguasdelparaiso.com.ar>
+To: <marioag@seraviatours.tur.ar>
+Subject: VERIFICACION DE DATO
+Date: Wed, 14 Aug 2013 18:00:32 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_03F4_01CE9918.2B7E37C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5931
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6157
+X-AV-Checked: ClamAV using ClamSMTP (punisher2)
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_03F4_01CE9918.2B7E37C0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hola Buenas tardes!
+
+Necesitamos por favor verificar el DNI de Corzo Guillermo quien viaja en =
+paquete charter a Federacion ya que es requisito para emitir la =
+asistencia al viajero y confeccionar la lista de la CNRT.
+Aguardamos, muchas gracias!
+
+Saludos
+Marcelo
+=20
+Horario de Lu a Vie 09:30 a 13:30 y 14:00 a 19:00=20
+Sabados de 09 a 13 hs guardia telefonica o via mail
+=20
+Aguas del Paraiso SRL
+Lavalle 384-PB
+Empresa de  Viajes    Turismo-Leg 10192
+CUIT 30-70855141-0
+4314-1625 o 4312-8474 o  5236-5534
+e-mail operaciones@aguasdelparaiso.com.ar
+www.aguasdelparaiso.com.ar
+www.costasdelparaiso.com.ar
+=20
+
+------=_NextPart_000_03F4_01CE9918.2B7E37C0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19298">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>
+<DIV><FONT size=3D2 face=3DArial>Hola Buenas tardes!</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Necesitamos por favor&nbsp;verificar =
+el&nbsp;DNI=20
+de&nbsp;Corzo Guillermo&nbsp;quien viaja en paquete charter a Federacion =
+ya que=20
+es requisito para emitir la asistencia al viajero y confeccionar la =
+lista de la=20
+CNRT.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial>Aguardamos, muchas=20
+gracias!</FONT></DIV></FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Saludos<BR>Marcelo<BR>&nbsp;<BR>Horario =
+de Lu a Vie=20
+09:30 a 13:30 y 14:00 a 19:00 <BR>Sabados de 09 a 13 hs guardia =
+telefonica o via=20
+mail<BR>&nbsp;<BR>Aguas del Paraiso SRL<BR>Lavalle 384-PB<BR>Empresa =
+de&nbsp;=20
+Viajes&nbsp;&nbsp;&nbsp; Turismo-Leg 10192<BR>CUIT =
+30-70855141-0<BR>4314-1625 o=20
+4312-8474 o&nbsp; 5236-5534<BR>e-mail <A=20
+href=3D"mailto:operaciones@aguasdelparaiso.com.ar">operaciones@aguasdelpa=
+raiso.com.ar</A><BR><A=20
+href=3D"http://www.aguasdelparaiso.com.ar">www.aguasdelparaiso.com.ar</A>=
+<BR><A=20
+href=3D"http://www.costasdelparaiso.com.ar">www.costasdelparaiso.com.ar</=
+A><BR>&nbsp;<BR></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_03F4_01CE9918.2B7E37C0--
+

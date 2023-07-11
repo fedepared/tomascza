@@ -1,0 +1,444 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<?php
+include_once 'class/conexion.php';
+//include "res/imemail.inc.php";
+//para la web
+/*
+$host="localhost";
+$usuario="root";
+$pass="";
+$base="abogados";	
+$conexion = mysql_connect($host,$usuario,$pass);
+mysql_select_db($base,$conexion);
+*/
+
+
+// Get the details of "imagefile"
+$destacad = (($_POST["destacado"]==true)?1:0);
+$mostrar= (($_POST["mostrar"]==true)?1:0);
+$filename = $_FILES['imagenProd']['name'];
+if (!($filename==''))
+{	
+	$filename = $_POST["PRO_CODIGO"].$filename;
+	$temporary_name = $_FILES['imagenProd']['tmp_name'];
+	$mimetype = $_FILES['imagenProd']['type'];
+	$filesize = $_FILES['imagenProd']['size'];
+	
+	//Open the image using the imagecreatefrom..() command based on the MIME type.
+	switch($mimetype) {
+	case "image/jpg":
+	case "image/jpeg":
+	$i = imagecreatefromjpeg($temporary_name);
+	break;
+	case "image/gif":
+	$i = imagecreatefromgif($temporary_name);
+	break;
+	case "image/png":
+	$i = imagecreatefrompng($temporary_name);
+	break;
+	}
+	
+	//Delete the uploaded file
+	unlink($temporary_name);
+	
+	//Save a copy of the original
+	imagejpeg($i,"../images/producto/original".$filename,80);
+	
+	//Specify the size of the thumbnail
+	$dest_x = 180;
+	$dest_y = 252;
+	
+	//Is the original bigger than the thumbnail dimensions?
+	if (imagesx($i) > $dest_x or imagesy($i) > $dest_y) {
+	//Is the width of the original bigger than the height?
+	if (imagesx($i) >= imagesy($i)) {
+	$thumb_x = $dest_x;
+	$thumb_y = imagesy($i)*($dest_x/imagesx($i));
+	} else {
+	$thumb_x = imagesx($i)*($dest_y/imagesy($i));
+	$thumb_y = $dest_y;
+	}
+	} else {
+	//Using the original dimensions
+	$thumb_x = imagesx($i);
+	$thumb_y = imagesy($i);
+	}
+	
+	//Generate a new image at the size of the thumbnail
+	$thumb = imagecreatetruecolor($thumb_x,$thumb_y);
+	
+	//Copy the original image data to it using resampling
+	imagecopyresampled($thumb, $i ,0, 0, 0, 0, $thumb_x, $thumb_y, imagesx($i), imagesy($i));
+	
+	//Save the thumbnail
+	imagejpeg($thumb, "../images/producto/tendencia/".$filename, 80);
+
+	//Specify the size of the thumbnail
+	$dest_x = 140;
+	$dest_y = 159;
+	
+	//Is the original bigger than the thumbnail dimensions?
+	if (imagesx($i) > $dest_x or imagesy($i) > $dest_y) {
+	//Is the width of the original bigger than the height?
+	if (imagesx($i) >= imagesy($i)) {
+	$thumb_x = $dest_x;
+	$thumb_y = imagesy($i)*($dest_x/imagesx($i));
+	} else {
+	$thumb_x = imagesx($i)*($dest_y/imagesy($i));
+	$thumb_y = $dest_y;
+	}
+	} else {
+	//Using the original dimensions
+	$thumb_x = imagesx($i);
+	$thumb_y = imagesy($i);
+	}
+	
+	//Generate a new image at the size of the thumbnail
+	$thumb = imagecreatetruecolor($thumb_x,$thumb_y);
+	
+	//Copy the original image data to it using resampling
+	imagecopyresampled($thumb, $i ,0, 0, 0, 0, $thumb_x, $thumb_y, imagesx($i), imagesy($i));
+	
+	//Save the thumbnail
+	imagejpeg($thumb, "../images/producto/liquidacion/".$filename, 80);
+	
+	
+	//Specify the size of the thumbnail
+	$dest_x = 75;
+	$dest_y = 110;
+	
+	//Is the original bigger than the thumbnail dimensions?
+	if (imagesx($i) > $dest_x or imagesy($i) > $dest_y) {
+	//Is the width of the original bigger than the height?
+	if (imagesx($i) >= imagesy($i)) {
+	$thumb_x = $dest_x;
+	$thumb_y = imagesy($i)*($dest_x/imagesx($i));
+	} else {
+	$thumb_x = imagesx($i)*($dest_y/imagesy($i));
+	$thumb_y = $dest_y;
+	}
+	} else {
+	//Using the original dimensions
+	$thumb_x = imagesx($i);
+	$thumb_y = imagesy($i);
+	}
+	
+	//Generate a new image at the size of the thumbnail
+	$thumb = imagecreatetruecolor($thumb_x,$thumb_y);
+	
+	//Copy the original image data to it using resampling
+	imagecopyresampled($thumb, $i ,0, 0, 0, 0, $thumb_x, $thumb_y, imagesx($i), imagesy($i));
+	
+	//Save the thumbnail
+	imagejpeg($thumb, "../images/producto/carrito/".$filename, 80);
+
+
+}
+else 
+	$filename=$_POST["foto1"];
+$filename2 = $_FILES['imagenProd2']['name'];
+if (!($filename2==''))
+{	
+	$filename2 = $_POST["PRO_CODIGO"].$filename2;
+	$temporary_name = $_FILES['imagenProd2']['tmp_name'];
+	$mimetype = $_FILES['imagenProd2']['type'];
+	$filesize = $_FILES['imagenProd2']['size'];
+	
+	//Open the image using the imagecreatefrom..() command based on the MIME type.
+	switch($mimetype) {
+	case "image/jpg":
+	case "image/jpeg":
+	$i = imagecreatefromjpeg($temporary_name);
+	break;
+	case "image/gif":
+	$i = imagecreatefromgif($temporary_name);
+	break;
+	case "image/png":
+	$i = imagecreatefrompng($temporary_name);
+	break;
+	}
+	
+	//Delete the uploaded file
+	unlink($temporary_name);
+	
+	//Save a copy of the original
+	imagejpeg($i,"../images/producto/original".$filename2,80);
+	
+	//Specify the size of the thumbnail
+	$dest_x = 180;
+	$dest_y = 252;
+	
+	//Is the original bigger than the thumbnail dimensions?
+	if (imagesx($i) > $dest_x or imagesy($i) > $dest_y) {
+	//Is the width of the original bigger than the height?
+	if (imagesx($i) >= imagesy($i)) {
+	$thumb_x = $dest_x;
+	$thumb_y = imagesy($i)*($dest_x/imagesx($i));
+	} else {
+	$thumb_x = imagesx($i)*($dest_y/imagesy($i));
+	$thumb_y = $dest_y;
+	}
+	} else {
+	//Using the original dimensions
+	$thumb_x = imagesx($i);
+	$thumb_y = imagesy($i);
+	}
+	
+	//Generate a new image at the size of the thumbnail
+	$thumb = imagecreatetruecolor($thumb_x,$thumb_y);
+	
+	//Copy the original image data to it using resampling
+	imagecopyresampled($thumb, $i ,0, 0, 0, 0, $thumb_x, $thumb_y, imagesx($i), imagesy($i));
+	
+	//Save the thumbnail
+	imagejpeg($thumb, "../images/producto/tendencia/".$filename2, 80);
+
+	//Specify the size of the thumbnail
+	$dest_x = 140;
+	$dest_y = 159;
+	
+	//Is the original bigger than the thumbnail dimensions?
+	if (imagesx($i) > $dest_x or imagesy($i) > $dest_y) {
+	//Is the width of the original bigger than the height?
+	if (imagesx($i) >= imagesy($i)) {
+	$thumb_x = $dest_x;
+	$thumb_y = imagesy($i)*($dest_x/imagesx($i));
+	} else {
+	$thumb_x = imagesx($i)*($dest_y/imagesy($i));
+	$thumb_y = $dest_y;
+	}
+	} else {
+	//Using the original dimensions
+	$thumb_x = imagesx($i);
+	$thumb_y = imagesy($i);
+	}
+	
+	//Generate a new image at the size of the thumbnail
+	$thumb = imagecreatetruecolor($thumb_x,$thumb_y);
+	
+	//Copy the original image data to it using resampling
+	imagecopyresampled($thumb, $i ,0, 0, 0, 0, $thumb_x, $thumb_y, imagesx($i), imagesy($i));
+	
+	//Save the thumbnail
+	imagejpeg($thumb, "../images/producto/liquidacion/".$filename2, 80);
+	
+	
+	//Specify the size of the thumbnail
+	$dest_x = 75;
+	$dest_y = 110;
+	
+	//Is the original bigger than the thumbnail dimensions?
+	if (imagesx($i) > $dest_x or imagesy($i) > $dest_y) {
+	//Is the width of the original bigger than the height?
+	if (imagesx($i) >= imagesy($i)) {
+	$thumb_x = $dest_x;
+	$thumb_y = imagesy($i)*($dest_x/imagesx($i));
+	} else {
+	$thumb_x = imagesx($i)*($dest_y/imagesy($i));
+	$thumb_y = $dest_y;
+	}
+	} else {
+	//Using the original dimensions
+	$thumb_x = imagesx($i);
+	$thumb_y = imagesy($i);
+	}
+	
+	//Generate a new image at the size of the thumbnail
+	$thumb = imagecreatetruecolor($thumb_x,$thumb_y);
+	
+	//Copy the original image data to it using resampling
+	imagecopyresampled($thumb, $i ,0, 0, 0, 0, $thumb_x, $thumb_y, imagesx($i), imagesy($i));
+	
+	//Save the thumbnail
+	imagejpeg($thumb, "../images/producto/carrito/".$filename, 80);
+
+
+}
+else 
+	$filename2=$_POST["foto2"];
+$filename3 = $_FILES['imagenProd3']['name'];
+if (!($filename3==''))
+{	
+	$filename3 = $_POST["PRO_CODIGO"].$filename3;
+	$temporary_name = $_FILES['imagenProd3']['tmp_name'];
+	$mimetype = $_FILES['imagenProd3']['type'];
+	$filesize = $_FILES['imagenProd3']['size'];
+	
+	//Open the image using the imagecreatefrom..() command based on the MIME type.
+	switch($mimetype) {
+	case "image/jpg":
+	case "image/jpeg":
+	$i = imagecreatefromjpeg($temporary_name);
+	break;
+	case "image/gif":
+	$i = imagecreatefromgif($temporary_name);
+	break;
+	case "image/png":
+	$i = imagecreatefrompng($temporary_name);
+	break;
+	}
+	
+	//Delete the uploaded file
+	unlink($temporary_name);
+	
+	//Save a copy of the original
+	imagejpeg($i,"../images/producto/original".$filename3,80);
+	
+	//Specify the size of the thumbnail
+	$dest_x = 180;
+	$dest_y = 252;
+	
+	//Is the original bigger than the thumbnail dimensions?
+	if (imagesx($i) > $dest_x or imagesy($i) > $dest_y) {
+	//Is the width of the original bigger than the height?
+	if (imagesx($i) >= imagesy($i)) {
+	$thumb_x = $dest_x;
+	$thumb_y = imagesy($i)*($dest_x/imagesx($i));
+	} else {
+	$thumb_x = imagesx($i)*($dest_y/imagesy($i));
+	$thumb_y = $dest_y;
+	}
+	} else {
+	//Using the original dimensions
+	$thumb_x = imagesx($i);
+	$thumb_y = imagesy($i);
+	}
+	
+	//Generate a new image at the size of the thumbnail
+	$thumb = imagecreatetruecolor($thumb_x,$thumb_y);
+	
+	//Copy the original image data to it using resampling
+	imagecopyresampled($thumb, $i ,0, 0, 0, 0, $thumb_x, $thumb_y, imagesx($i), imagesy($i));
+	
+	//Save the thumbnail
+	imagejpeg($thumb, "../images/producto/tendencia/".$filename3, 80);
+
+	//Specify the size of the thumbnail
+	$dest_x = 140;
+	$dest_y = 159;
+	
+	//Is the original bigger than the thumbnail dimensions?
+	if (imagesx($i) > $dest_x or imagesy($i) > $dest_y) {
+	//Is the width of the original bigger than the height?
+	if (imagesx($i) >= imagesy($i)) {
+	$thumb_x = $dest_x;
+	$thumb_y = imagesy($i)*($dest_x/imagesx($i));
+	} else {
+	$thumb_x = imagesx($i)*($dest_y/imagesy($i));
+	$thumb_y = $dest_y;
+	}
+	} else {
+	//Using the original dimensions
+	$thumb_x = imagesx($i);
+	$thumb_y = imagesy($i);
+	}
+	
+	//Generate a new image at the size of the thumbnail
+	$thumb = imagecreatetruecolor($thumb_x,$thumb_y);
+	
+	//Copy the original image data to it using resampling
+	imagecopyresampled($thumb, $i ,0, 0, 0, 0, $thumb_x, $thumb_y, imagesx($i), imagesy($i));
+	
+	//Save the thumbnail
+	imagejpeg($thumb, "../images/producto/liquidacion/".$filename3, 80);
+	
+	
+	//Specify the size of the thumbnail
+	$dest_x = 75;
+	$dest_y = 110;
+	
+	//Is the original bigger than the thumbnail dimensions?
+	if (imagesx($i) > $dest_x or imagesy($i) > $dest_y) {
+	//Is the width of the original bigger than the height?
+	if (imagesx($i) >= imagesy($i)) {
+	$thumb_x = $dest_x;
+	$thumb_y = imagesy($i)*($dest_x/imagesx($i));
+	} else {
+	$thumb_x = imagesx($i)*($dest_y/imagesy($i));
+	$thumb_y = $dest_y;
+	}
+	} else {
+	//Using the original dimensions
+	$thumb_x = imagesx($i);
+	$thumb_y = imagesy($i);
+	}
+	
+	//Generate a new image at the size of the thumbnail
+	$thumb = imagecreatetruecolor($thumb_x,$thumb_y);
+	
+	//Copy the original image data to it using resampling
+	imagecopyresampled($thumb, $i ,0, 0, 0, 0, $thumb_x, $thumb_y, imagesx($i), imagesy($i));
+	
+	//Save the thumbnail
+	imagejpeg($thumb, "../images/producto/carrito/".$filename, 80);
+
+
+}
+else 
+	$filename3=$_POST["foto3"];
+$link=Conectarse();
+
+$query3 ="";
+if ($_POST["ID"]=='0')
+{
+$query3 = 	"insert into  productos 
+(ID_MENU_CATEGORIA
+,CODIGO
+,TITULO
+,DESCRIPCION
+,HOTELES
+,EXCURSIONES
+,ADICIONAL
+,SERVICIOS
+,MONEDA
+,ESTADO
+,MOSTRAR
+,DESTACADO
+,FECHA_DESDE
+,FECHA_HASTA
+,PRECIO_ALTA
+,PRECIO_BAJA
+,FOTO_CHICA
+,FOTO_MEDIDAS
+,FOTO_GRANDE
+
+
+)
+
+values ('".$_POST["padre"]."','".$_POST["PRO_CODIGO"]."','".$_POST["TITULO"]."',
+'".$_POST["DESCRIPCION"]."','".$_POST["HOTELES"]."',
+'".$_POST["EXCURSIONES"]."','".$_POST["ADICIONAL"]."','".$_POST["SERVICIOS"]."',
+'".$_POST["MONEDA"]."',1,".$mostrar.",".$destacad.",'','',
+".$_POST["PRECIO_ALTA"].",".$_POST["PRECIO_BAJA"].",'".$filename."'
+,'".$filename2."','".$filename3."')";
+
+}
+else
+{
+	$query3="update   productos 
+		set 
+		CODIGO = '".$_POST["PRO_CODIGO"]."'
+		,TITULO = '".$_POST["TITULO"]."'
+		,DESCRIPCION= '".$_POST["DESCRIPCION"]."'		
+		,HOTELES = '".$_POST["HOTELES"]."'
+		,EXCURSIONES = '".$_POST["EXCURSIONES"]."'
+		,ADICIONAL = '".$_POST["ADICIONAL"]."'
+		,SERVICIOS = '".$_POST["SERVICIOS"]."'
+		,MONEDA = '".$_POST["MONEDA"]."'
+		,PRECIO_BAJA = ".$_POST["PRECIO_BAJA"]."
+		,PRECIO_ALTA = ".$_POST["PRECIO_ALTA"]."		
+		,DESTACADO = ".$destacad."		
+		,FOTO_CHICA = '".$filename."'
+		,FOTO_MEDIDAS = '".$filename2."'
+		,FOTO_GRANDE = '".$filename3."'
+		,MOSTRAR=".$mostrar."	
+		
+		where id =".$_POST["ID"]." ";
+	
+}
+echo $qry;
+
+mysql_query($query3) or die(mysql_error());
+
+echo"<script language='javascript'>window.location='newcateg-subcateg.php?md=".$_POST["padre"]."'</script>;";
+?>
